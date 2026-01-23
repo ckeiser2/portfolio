@@ -3,14 +3,9 @@ title: 📊 TF-IDF Text Analysis 🐍
 #permalink: /python/:name/
 layout: page
 #tools: [Python, Pandas]
-category: Fun
+category: python
 img: assets/pngs/speech_graph.png
 description: Python project text analysis using TF-IDF 
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
 ---
 
 *Python - Packages: Pandas*

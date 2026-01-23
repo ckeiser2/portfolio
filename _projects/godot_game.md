@@ -1,16 +1,12 @@
 ---
 title: 🎮 Godot Game [2048 Knight] 🕹️
 #permalink: /games/:name/
-category: Fun
+category: games
 #tools: [C#, Designer, Programmer, Godot]
 img: assets/pngs/godot.png
 layout: page
 description: C# in Godot Engine, Designed the UI and multiple systems.
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+
 ---
 ## Skills Showcased
 *Godot:* *In-Engine Tools* 

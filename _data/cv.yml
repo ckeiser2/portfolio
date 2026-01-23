@@ -37,7 +37,7 @@
       description:
         - Perform client-facing IT audits, evaluating compliance and effectiveness of information systems and testing ITGC controls from a IT SOX & NIST CSF perspective. 
         - Contribute to the internal programming team as a back-end developer, creating custom tools, applications, and process accelerators.
-          contents:
+        - contents:
             - IT SOX and NIST CSF
             - Python
     - title: UIUC iSchool Advisor

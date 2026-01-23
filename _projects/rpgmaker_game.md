@@ -1,16 +1,12 @@
 ---
 title: 🎮 RPGMaker game [Playable in Browser] 🕹️
 #permalink: /games/:name/
-category: Fun
+category: games
 #tools: [RPGMaker, Javascript Plugin, Playable]
 img: assets/pngs/rpg_game.png
 layout: page
 description: Short developer project utilizing javascript
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+
 ---
 ## 🎮 RPG Maker Project – Custom Javascript Plugins
 

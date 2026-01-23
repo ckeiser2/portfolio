@@ -1,16 +1,12 @@
 ---
 title: 🐍 Machine Learning via Tweets 🤖 🧠
 #permalink: /python/:name/
-category: Fun
+category: python
 layout: page
 #tools: [Python, Machine Learning]
 img: assets/pngs/ml.png
 description: Training a model and creating a visualization based on "Confidence" of the model using tweets from the president.
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+
 ---
 
 ## Jupyter Notebook

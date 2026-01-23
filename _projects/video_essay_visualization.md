@@ -2,15 +2,11 @@
 title: 📊 Text Analysis Visualization 🐍
 #permalink: /python/:name/
 layout: page
-category: Fun
+category: python
 #tools: [Python, Altair]
 img: assets/pngs/viz.png
 description: Python project | Data Scraping | Altair
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+
 ---
 *Python* *:Altair Python Package*
 

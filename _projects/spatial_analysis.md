@@ -2,15 +2,11 @@
 title: 📊 Geo Plotting / Analysis 🐍
 #permalink: /python/:name/
 layout: page
-category: Fun
+category: python
 #tools: [Python, geopy, pandas]
 img: assets/pngs/map.png
 description: Using python libraries to use data over geo maps
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+
 ---
 
 

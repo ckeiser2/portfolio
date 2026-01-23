@@ -1,16 +1,11 @@
 ---
 title: 🎮 Concept Redesign ROR2 🕹️
 #permalink: /games/:name/
-category: Fun
+category: games
 #tools: [Design]
 img: assets/pngs/galvin.png
 layout: page
 description: Addressing my redesign concept for a fighting game character 
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
 ---
 
 ##### Role: Solo Designer

@@ -1,16 +1,11 @@
 ---
 title: 📊 Network Clustering Analysis 🐍
 #permalink: /python/:name/
-category: Fun
+category: python
 layout: page
 #tools: [Python, Networkx, Bokeh]
 img: assets/pngs/bokeh_plot (7).png
 description: Python project utilizing networkx
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
 ---
 *Python - Packages: Networkx, Bokeh*
 

@@ -3,14 +3,9 @@ title: 📊 Python Interactive Data Visualization 🐍
 #permalink: /python/:name/
 layout: page
 #tools: [Python, ALtair]
-category: Fun
+category: python
 img: assets/pngs/graph.png
 description: Using Python and packages like Altair | Data Analytics | Data Visualization
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
 ---
 
 *Python:Altair*

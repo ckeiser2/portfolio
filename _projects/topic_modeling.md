@@ -2,15 +2,11 @@
 title: 📊 Topic Modeling 🐍
 #permalink: /python/:name/
 layout: page
-category: Fun
+category: python
 #tools: [Python, Gensim, MatPlotLib]
 img: assets/pngs/table.png
 description: Topic Modeling with Python
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+
 ---
 
 *Python - Packages: Gensim, MatPlotLib*

@@ -2,15 +2,11 @@
 title: 📊 TEI Solutions 🐍
 #permalink: /python/:name/
 layout: page
-category: Fun
+category: python
 #tools: [Python, Beautiful Soup, Parsing]
 image: assets/pngs/TEI.png
 description: Converting HTML data to TEI | Data Parsing
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+
 ---
 
 *Python - Packages: Beautiful Soup*

@@ -2,15 +2,11 @@
 title: 📊 Text Analysis using Named Entity Recognition 🐍
 #permalink: /python/:name/
 layout: page
-category: Fun
+category: python
 #tools: [Python, POS Tagging, Named Entity Recognition]
 img: assets/pngs/ner.png
 description: Sorting through text using strategies like Named Entity Recognition and POS Tagging
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+
 ---
 
 

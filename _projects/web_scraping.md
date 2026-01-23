@@ -2,15 +2,10 @@
 title: 📊 Text Analysis using Named Entity Recognition 🐍
 #permalink: /python/:name/
 layout: page
-category: Fun
+category: python
 #tools: [Python, Webscraped Data, APIs]
 img: assets/pngs/found_text.png
 description: Project using webscraped data using pandas and APIs.
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
 ---
 
 
