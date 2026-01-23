@@ -29,8 +29,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: calm # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: gotham # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -93,8 +93,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Colton Keiser Blog # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: Exploration of different topics in tech.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -118,12 +118,12 @@ giscus:
   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
   dark_theme: dark # name of the dark color scheme (preferred works well with al-folio dark mode)
-  light_theme: light # name of the light color scheme (preferred works well with al-folio light mode)
+  light_theme: calm # name of the light color scheme (preferred works well with al-folio light mode)
   emit_metadata: 0
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -208,6 +208,7 @@ exclude:
   - vendor
   - _pages/teaching.md
   - _pages/publications.md
+  - _examples
 keep_files:
   - CNAME
   - .nojekyll

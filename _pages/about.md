@@ -9,9 +9,8 @@ profile:
   image: pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    Bachelors of Science
     Information Sciences
-    University of Illinois Urbana-Champaign
+    University of Illinois (UIUC)
     St. Louis, MO
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
