@@ -230,6 +230,7 @@ plugins:
   - jekyll-tabs
   - jekyll-terser
   - jekyll-toc
+  - jekyll-scholar
   - jekyll-twitter-plugin
   - jemoji
 
