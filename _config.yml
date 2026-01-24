@@ -230,7 +230,6 @@ plugins:
   - jekyll-tabs
   - jekyll-terser
   - jekyll-toc
-  - jekyll-scholar
   - jekyll-twitter-plugin
   - jemoji
 
@@ -276,7 +275,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["tech", "games", "programming", "development"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_categories: ["jekyll", "ruby"] # these categories will be displayed on the front page of your blog
 
 ## -----------------------------------------------------------------------------
 ## Jekyll Scholar
