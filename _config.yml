@@ -234,6 +234,8 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-relative-links
+
 
 # Sitemap settings
 defaults:
