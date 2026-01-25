@@ -17,7 +17,11 @@ For my character redesign I chose a character from a personal favorite game seri
 A character's design should incorporate their narrative, thematic, and kit, reinforcing one another synergistically. Galvin's lore emphasizes a dinosaur-esque creature revived into the modern aether world. Enhanced with augments from the engineer who revived the dinosaur, in this Frankenstein-esque fantasy. The key mechanic with Galvin is his ability to enter a "Galvinized" state where the rust covering it's metal body falls off enhancing his charge/strong and special attacks. This additionally, turns the metal that covers his body from a tarnished green color to a pronounced shiny silver, emphasizing how he is in an empowered state. I will outline below the conditions that need to happen in order to both gain this "Galivinized" state and lose it, while providing visuals to aid the current understanding of how it works.
 
 ##### Standard model without galvinized mechanic
-<img src="{{ site.baseurl }}/assets/pngs/galvin1.png" alt="Ungalvinized">
+<img 
+  src="{{ site.baseurl }}/assets/pngs/galvin1.png"
+  alt="Ungalvinized"
+  style="display:block; margin: 0 auto; width: 60%; max-width: 600px;"
+>
 
 Gaining Galvinzization:
 - Hit a basic physical atttack
@@ -29,7 +33,11 @@ Losing Galvinsization:
 - Lose a stock (What platform fighting games will call lifes)
 
 ##### Model change when galvinized
-<img src="{{ site.baseurl }}/assets/pngs/galvin2.png" alt="Galvinized">
+<img 
+  src="{{ site.baseurl }}/assets/pngs/galvin2.png"
+  alt="Galvinized"
+  style="display:block; margin: 0 auto; width: 60%; max-width: 600px;"
+>
 
 
 ##### Gameplay example of Galvin Game play as reference
@@ -43,4 +51,8 @@ Losing Galvinsization:
 
 As we can currently see by my demonstration in the video and how I have described preivously. Galvin's empowered state of galvinization is quite confusing. There are many inconsistencies with how its been implemented and the animation around its activation. Within the fantasy of Galvin we are suppose to hit the apex of being a heavy fighting game character when the rust falls off the character and you enter this enhanced state. The galvinized state shows that the fantasy to be a heavy with a good *advantage state* (*In a fighting game where an individual is in the advantage. Which usually involves comboing or in the process of attacking the opponent*). With a single blow or missed ability you lose it once again. Additionally, when hitting an opponent (only in certain conditions) your character becomes shiny in this very jarring and unrewarding animation. My idea for a rework would be to essentially lock the empowered state (*Galvinzation*) behind a resource mechanic. This would be displayed at the bottom of the screen in which as a Galvin deals damage *of any sort*, this bar would start to fill up. With the completition of the bar there would be a visual animation and significant sound queue of the rust following off the metal dinosaur, revealing the shiny metal underneath. Due to the significant increase in difficulty in achieving state it would last significantly longer as the resource meter starts to drain. As the metal begins to rust again. In this time Galvin gets to use the enhanced versions of all of it's attacks while not having to worry about the constant switching between the two states. To emphasize the fantasy still of being a heavy character with a good advantage state, the Galvin can slow down the degrade of the resource meter by staying in the *advantage state* (*i.e. staying on the offensive*). Refer to below for a visual UI *Proof of Concept*.
 
-<img src="{{ site.baseurl }}/assets/pngs/galvin3.png" alt="POC">
+<img 
+  src="{{ site.baseurl }}/assets/pngs/galvin3.png"
+  alt="Proof-of-concept"
+  style="display:block; margin: 0 auto; width: 60%; max-width: 600px;"
+>
