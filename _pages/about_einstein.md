@@ -1,1 +1,0 @@
-Graduated from the University of Illinois with a Bachelor’s in Information Sciences and a Minor in Game Studies and Design in Spring 2024. Currently working as an IT Auditor for a consulting firm while also involved in their internal application/tool development team as a python backend developer.
