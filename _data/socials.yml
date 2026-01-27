@@ -14,6 +14,6 @@ linkedin: # can be any name here other than the ones already defined in the jeky
   url: https://www.linkedin.com/in/colton-keiser/
 
 previous portfolio : # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: assets/img/comp.png # can be png, svg, jpg
+  logo: assets/img/me_pic.png # can be png, svg, jpg
   title: Orignal Portfolio
   url: https://ckeiser2.github.io
