@@ -7,7 +7,7 @@
 {% endif %}
 
 <iframe
-  src="https://view.officeapps.live.com/op/embed.aspx?src={{ full_url | url_encode }}"
+  src="https://view.officeapps.live.com/op/embed.aspx?src={{ site.url }}{{ site.baseurl }}/{{ include.file | uri_escape }}"
   width="100%"
   height="{{ include.height | default: 600 }}"
   frameborder="0">
