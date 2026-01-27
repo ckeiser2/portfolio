@@ -7,62 +7,62 @@ ninja.data = [{
     title: "home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/portfolio/";
     },
   },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of projects in gaming and various programming languages.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/portfolio/projects/";
           },
         },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/portfolio/blog/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "A look at the repo behind this page and my other github projects. *Note* my previous portfolio page (ckeiser2) has over 200 commits to it over the past 2 years of development. But, since I pushed those updates from my IDE with a different email than my github, it did not count as a contribution.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/portfolio/repositories/";
           },
         },{id: "nav-experience",
           title: "experience",
           description: "Click on the icon to the right to see my Resume. Refer to the below to see futher details on my experience.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resume/";
+            window.location.href = "/portfolio/resume/";
           },
         },{id: "nav-profile",
           title: "profile",
           description: "About me section.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/portfolio/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/portfolio/books/";
               },
             },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/portfolio/blog/";
               },
             },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/portfolio/books/the_godfather/";
             },},{id: "news-release-of-portfolio",
           title: 'Release of portfolio',
           description: "",
@@ -70,83 +70,83 @@ ninja.data = [{
           title: '🎮 Barb&amp;#39;s Dungeon 🖋️ 🕹️',
           description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/barbs_dungeon/";
+              window.location.href = "/portfolio/projects/barbs_dungeon/";
             },},{id: "projects-concept-redesign-ror2-️",
           title: '🎮 Concept Redesign ROR2 🕹️',
           description: "Addressing my redesign concept for a fighting game character",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/concept_redesign/";
+              window.location.href = "/portfolio/projects/concept_redesign/";
             },},{id: "projects-godot-game-2048-knight-️",
           title: '🎮 Godot Game [2048 Knight] 🕹️',
           description: "C# in Godot Engine, Designed the UI and multiple systems.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/godot_game/";
+              window.location.href = "/portfolio/projects/godot_game/";
             },},{id: "projects-machine-learning-via-tweets",
           title: '🐍 Machine Learning via Tweets 🤖 🧠',
           description: "Training a model and creating a visualization based on &quot;Confidence&quot; of the model using tweets from the president.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/machine_learning/";
+              window.location.href = "/portfolio/projects/machine_learning/";
             },},{id: "projects-network-clustering-analysis",
           title: '📊 Network Clustering Analysis 🐍',
           description: "Python project utilizing networkx",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/network_visual_project/";
+              window.location.href = "/portfolio/projects/network_visual_project/";
             },},{id: "projects-tf-idf-text-analysis",
           title: '📊 TF-IDF Text Analysis 🐍',
           description: "Python project text analysis using TF-IDF",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/pres_speech_analysis/";
+              window.location.href = "/portfolio/projects/pres_speech_analysis/";
             },},{id: "projects-python-interactive-data-visualization",
           title: '📊 Python Interactive Data Visualization 🐍',
           description: "Using Python and packages like Altair | Data Analytics | Data Visualization",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/python_data_viz/";
+              window.location.href = "/portfolio/projects/python_data_viz/";
             },},{id: "projects-rpgmaker-game-playable-in-browser-️",
           title: '🎮 RPGMaker game [Playable in Browser] 🕹️',
           description: "Short developer project utilizing javascript",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/rpgmaker_game/";
+              window.location.href = "/portfolio/projects/rpgmaker_game/";
             },},{id: "projects-geo-plotting-analysis",
           title: '📊 Geo Plotting / Analysis 🐍',
           description: "Using python libraries to use data over geo maps",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/spatial_analysis/";
+              window.location.href = "/portfolio/projects/spatial_analysis/";
             },},{id: "projects-tei-solutions",
           title: '📊 TEI Solutions 🐍',
           description: "Converting HTML data to TEI | Data Parsing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/tei_solutions/";
+              window.location.href = "/portfolio/projects/tei_solutions/";
             },},{id: "projects-text-analysis-using-named-entity-recognition",
           title: '📊 Text Analysis using Named Entity Recognition 🐍',
           description: "Sorting through text using strategies like Named Entity Recognition and POS Tagging",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/text_analysis_ner/";
+              window.location.href = "/portfolio/projects/text_analysis_ner/";
             },},{id: "projects-topic-modeling",
           title: '📊 Topic Modeling 🐍',
           description: "Topic Modeling with Python",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/topic_modeling/";
+              window.location.href = "/portfolio/projects/topic_modeling/";
             },},{id: "projects-twine-game-quot-a-myconid-39-s-story-quot-playable-in-browser-️-️",
           title: '🎮 Twine Game - &amp;quot;A Myconid&amp;#39;s Story&amp;quot; [Playable in Browser]🖋️ 🕹️',
           description: "Choose your own adventure short story, with 18 possible endings. Playable within Browser.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/twine_game/";
+              window.location.href = "/portfolio/projects/twine_game/";
             },},{id: "projects-text-analysis-visualization",
           title: '📊 Text Analysis Visualization 🐍',
           description: "Python project | Data Scraping | Altair",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/video_essay_visualization/";
+              window.location.href = "/portfolio/projects/video_essay_visualization/";
             },},{id: "projects-text-analysis-using-named-entity-recognition",
           title: '📊 Text Analysis using Named Entity Recognition 🐍',
           description: "Project using webscraped data using pandas and APIs.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web_scraping/";
+              window.location.href = "/portfolio/projects/web_scraping/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/resume.pdf", "_blank");
+          window.open("/portfolio/assets/pdf/resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
