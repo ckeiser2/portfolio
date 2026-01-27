@@ -65,12 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/portfolio/blog/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/portfolio/books/the_godfather/";
-            },},{id: "books-the-alchemist",
+            },{id: "books-the-alchemist",
           title: 'The Alchemist',
           description: "",
           section: "Books",handler: () => {
