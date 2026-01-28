@@ -11,8 +11,8 @@ children:
   - title: blog
     permalink: /blog/
   - title: divider
-  - title: profile
-    permlink: /profile/
+  - title: about me
+    permalink: /about_me/
   - title: divider
   - title: news
     permalink: /news/

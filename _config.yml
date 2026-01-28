@@ -172,7 +172,7 @@ collections:
     defaults:
       layout: post
     output: true
-  about me:
+  profile:
     output: true
   projects:
     output: true
