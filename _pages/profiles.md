@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /about_me/
 title: about me
-description: About me section.
+description:
 nav: false
 nav_order: 7
 
