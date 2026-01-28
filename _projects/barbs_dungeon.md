@@ -3,7 +3,7 @@ layout: page
 title: 🎮 Barb's Dungeon 🖋️ 🕹️
 description: Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.
 img: assets/pngs/barb_dungeon_systems.png
-category: games
+category: games 🎮
 importance: 1
 
 ---

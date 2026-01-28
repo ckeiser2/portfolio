@@ -1,7 +1,7 @@
 ---
 title: 🐍 Machine Learning via Tweets 🤖 🧠
 #permalink: /python/:name/
-category: python
+category: python 🐍
 layout: page
 #tools: [Python, Machine Learning]
 img: assets/pngs/ml.png

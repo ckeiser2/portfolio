@@ -2,7 +2,7 @@
 title: 📊 Topic Modeling 🐍
 #permalink: /python/:name/
 layout: page
-category: python
+category: python 🐍
 #tools: [Python, Gensim, MatPlotLib]
 img: assets/pngs/table.png
 description: Topic Modeling with Python

@@ -1,7 +1,7 @@
 ---
 title: 🎮 Twine Game - "A Myconid's Story" [Playable in Browser]🖋️ 🕹️
 #permalink: /games/:name/
-category: games
+category: games 🎮
 #tools: [Twine, HTML/CSS, Playable, Choose your own adventure]
 img: assets/pngs/html_story.png
 layout: page

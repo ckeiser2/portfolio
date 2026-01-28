@@ -3,7 +3,7 @@ title: 📊 TF-IDF Text Analysis 🐍
 #permalink: /python/:name/
 layout: page
 #tools: [Python, Pandas]
-category: python
+category: python 🐍
 img: assets/pngs/speech_graph.png
 description: Python project text analysis using TF-IDF 
 ---

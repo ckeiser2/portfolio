@@ -2,7 +2,7 @@
 title: 📊 Text Analysis Visualization 🐍
 #permalink: /python/:name/
 layout: page
-category: python
+category: python 🐍
 #tools: [Python, Altair]
 img: assets/pngs/viz.png
 description: Python project | Data Scraping | Altair

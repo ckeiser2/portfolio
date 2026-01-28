@@ -1,7 +1,7 @@
 ---
 title: 🎮 Concept Redesign ROR2 🕹️
 #permalink: /games/:name/
-category: games
+category: games 🎮
 #tools: [Design]
 img: assets/pngs/galvin.png
 layout: page

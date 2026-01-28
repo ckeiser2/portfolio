@@ -3,7 +3,7 @@ title: 📊 Python Interactive Data Visualization 🐍
 #permalink: /python/:name/
 layout: page
 #tools: [Python, ALtair]
-category: python
+category: python 🐍
 img: assets/pngs/graph.png
 description: Using Python and packages like Altair | Data Analytics | Data Visualization
 ---

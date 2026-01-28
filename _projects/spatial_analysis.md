@@ -2,7 +2,7 @@
 title: 📊 Geo Plotting / Analysis 🐍
 #permalink: /python/:name/
 layout: page
-category: python
+category: python 🐍
 #tools: [Python, geopy, pandas]
 img: assets/pngs/map.png
 description: Using python libraries to use data over geo maps

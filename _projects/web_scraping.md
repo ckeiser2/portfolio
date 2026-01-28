@@ -2,7 +2,7 @@
 title: 📊 Text Analysis using Named Entity Recognition 🐍
 #permalink: /python/:name/
 layout: page
-category: python
+category: python 🐍
 #tools: [Python, Webscraped Data, APIs]
 img: assets/pngs/found_text.png
 description: Project using webscraped data using pandas and APIs.
