@@ -172,6 +172,8 @@ collections:
     defaults:
       layout: post
     output: true
+  about me:
+    output: true
   projects:
     output: true
   teachings:
