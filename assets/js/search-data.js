@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-bookshelf",
-          title: "bookshelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/books/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of projects in gaming and various programming languages.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/projects/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/blog/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -43,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/resume/";
-          },
-        },{id: "nav-profile",
-          title: "profile",
-          description: "About me section.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
