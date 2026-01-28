@@ -44,6 +44,20 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/portfolio/blog/";
               },
+            },{id: "dropdown-about-me",
+              title: "about me",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-news",
+              title: "news",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/news/";
+              },
             },{id: "books-the-alchemist",
           title: 'The Alchemist',
           description: "",
