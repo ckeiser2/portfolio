@@ -46,16 +46,11 @@ nav_order: 4
 </div>
 {% endif %}
 
-## Top Langs in Repos
 
+{% if site.repo_langs.enabled %}
 ## Top Languages in Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  <div class="repo-card">
-    <img
-      src="https://github-readme-stats-keiser1.vercel.app/api/top-langs/?username=ckeiser2&size_weight=0.5&count_weight=0.5"
-      alt="Top programming languages across GitHub repositories"
-      loading="lazy"
-    />
-  </div>
+  {% include repository/repo_langs.liquid username=site.repo_langs.username %}
 </div>
+{% endif %}
