@@ -12,23 +12,22 @@
       {% when 'tw', 'hk', 'mo', 'hant' %}
         {% assign lang = 'zh-tw' %}
     {% endcase %}
-
-    {% comment %} Add a new language using when... if needed {% endcomment %}
-    {% comment %} If you still encounter language-display issues, check the available locale codes in github-readme-stats (different from ISO-639 standard used in your website) {% endcomment %}
-    {% comment %} https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#available-locales {% endcomment %}
 {% endcase %}
 
+{% assign username = include.username | default: site.github_username %}
+
 <div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.username }}">
-    <img
-      class="only-light w-100"
-      alt="{{ include.username }}"
-      src="{{ site.external_services.github_readme_stats_url }}/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_icons=true"
-    >
-    <img
-      class="only-dark w-100"
-      alt="{{ include.username }}"
-      src="{{ site.external_services.github_readme_stats_url }}/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_icons=true"
-    >
-  </a>
+  <img
+    class="only-light w-100"
+    alt="Top programming languages (light mode)"
+    src="{{ site.external_services.github_readme_stats_url }}/api/top-langs/?username={{ username }}&langs_count=8&size_weight=0.5&count_weight=0.5&theme={{ site.repo_theme_light }}&locale={{ lang }}"
+    loading="lazy"
+  >
+
+  <img
+    class="only-dark w-100"
+    alt="Top programming languages (dark mode)"
+    src="{{ site.external_services.github_readme_stats_url }}/api/top-langs/?username={{ username }}&langs_count=8&size_weight=0.5&count_weight=0.5&theme={{ site.repo_theme_dark }}&locale={{ lang }}"
+    loading="lazy"
+  >
 </div>
