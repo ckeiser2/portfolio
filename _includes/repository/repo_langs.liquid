@@ -1,26 +1,33 @@
+{% assign lang = site.lang | split: '-' | first %}
+
+{% case lang %}
+  {% when 'pt' %}
+    {% assign lang = site.lang %}
+
+  {% when 'zh' %}
+    {% assign lang_last = site.lang | split: '-' | last %}
+    {% case lang_last %}
+      {% when 'cn', 'sg', 'my', 'hans' %}
+        {% assign lang = 'cn' %}
+      {% when 'tw', 'hk', 'mo', 'hant' %}
+        {% assign lang = 'zh-tw' %}
+    {% endcase %}
+{% endcase %}
+
 {% assign username = include.username | default: site.github_username %}
 
-{% assign theme_light = site.repo_theme_light | default: 'default' %}
-{% assign theme_dark  = site.repo_theme_dark  | default: 'dark' %}
+<div class="repo p-2 text-center">
+  <img
+    class="only-light w-100"
+    alt="Top programming languages (light mode)"
+    src="{{ site.external_services.github_readme_stats_url }}/api/top-langs/?username={{ username }}&size_weight=0.5&count_weight=0.5&theme={{ site.repo_theme_light }}&locale={{ lang }}"
+    loading="lazy"
+  >
 
-<div class="repo-card card">
-  <div class="card-body text-center">
-    <h5 class="card-title mb-3">Top Languages</h5>
-
-    <!-- Light theme -->
-    <img
-      src="https://github-readme-stats-keiser1.vercel.app/api/top-langs/?username={{ username }}&size_weight=0.5&count_weight=0.5&theme={{ theme_light }}"
-      alt="Top programming languages (light theme)"
-      class="img-fluid theme-light"
-      loading="lazy"
-    />
-
-    <!-- Dark theme -->
-    <img
-      src="https://github-readme-stats-keiser1.vercel.app/api/top-langs/?username={{ username }}&size_weight=0.5&count_weight=0.5&theme={{ theme_dark }}"
-      alt="Top programming languages (dark theme)"
-      class="img-fluid theme-dark"
-      loading="lazy"
-    />
-  </div>
+  <img
+    class="only-dark w-100"
+    alt="Top programming languages (dark mode)"
+    src="{{ site.external_services.github_readme_stats_url }}/api/top-langs/?username={{ username }}&size_weight=0.5&count_weight=0.5&theme={{ site.repo_theme_dark }}&locale={{ lang }}"
+    loading="lazy"
+  >
 </div>

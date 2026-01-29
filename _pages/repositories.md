@@ -46,6 +46,7 @@ nav_order: 4
 </div>
 {% endif %}
 
+--- 
 
 {% if site.repo_langs.enabled %}
 ## Top Languages in Repositories
