@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of projects in gaming and various programming languages.
 nav: true
 nav_order: 2
-display_categories: [games 🎮, python 🐍]
+display_categories: [python 🐍, games 🎮]
 horizontal: false
 ---
 
