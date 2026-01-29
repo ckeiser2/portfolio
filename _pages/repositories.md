@@ -48,4 +48,14 @@ nav_order: 4
 
 ## Top Langs in Repos
 
-![Top Langs](https://github-readme-stats-keiser1.vercel.app/api/top-langs/?username=ckeiser2&size_weight=0.5&count_weight=0.5)
+## Top Languages in Repositories
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  <div class="repo-card">
+    <img
+      src="https://github-readme-stats-keiser1.vercel.app/api/top-langs/?username=ckeiser2&size_weight=0.5&count_weight=0.5"
+      alt="Top programming languages across GitHub repositories"
+      loading="lazy"
+    />
+  </div>
+</div>
