@@ -45,3 +45,7 @@ nav_order: 4
   {% endfor %}
 </div>
 {% endif %}
+
+## Top Langs in Repos
+
+![Top Langs](https://github-readme-stats-keiser1.vercel.app/api/top-langs/?username=ckeiser2&size_weight=0.5&count_weight=0.5)
