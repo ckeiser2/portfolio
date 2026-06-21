@@ -37,14 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/resume/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/portfolio/books/";
-              },
-            },{id: "dropdown-blog",
+        },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
@@ -57,13 +50,6 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/portfolio/analytics/";
-              },
-            },{id: "dropdown-fun-facts",
-              title: "fun facts",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/portfolio/facts/";
               },
             },{id: "books-the-alchemist",
           title: 'The Alchemist',
