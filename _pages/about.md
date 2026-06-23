@@ -4,7 +4,7 @@ body_class: about-page
 title: home
 permalink: /
 subtitle: >
-  Colton Keiser, Backend Developer
+  Colton Keiser, Senior IT Auditor | Backend Developer
 
 profile:
   align: right
@@ -37,7 +37,7 @@ A compilation of all technical projects, experience, and repositories. Website i
 
 ### **About Me**
 
-Graduated from the **University of Illinois** with a **Bachelor’s in Information Sciences** and a Minor in Game Studies and Design in Spring 2024. Currently working as an IT Auditor for a consulting firm while also involved in their internal application/tool development team as a **python backend developer**.
+Graduated from the **University of Illinois** with a **Bachelor’s in Information Sciences** and a Minor in Game Studies and Design in Spring 2024. Currently working as a Senior IT Auditor for a consulting firm while also involved in their internal application/tool development team as a **python backend developer**.
 
 Actively pursuing a **M.S. in Game Development** at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
 
