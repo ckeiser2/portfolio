@@ -38,14 +38,14 @@
   contents:
     - title: Senior IT Auditor // Python Backend Developer
       institution: Protiviti
-      year: 2024 - Present
+      year: 2026 - Present
       description:
         - Perform client-facing IT audits, evaluating compliance and effectiveness of information systems and testing ITGC controls from a IT SOX & NIST CSF perspective. 
         - Contribute to the internal programming team as a back-end developer, creating custom tools, applications, and process accelerators.
         - contents:
             - IT SOX and NIST CSF
             - Python
-    - title: IT Auditor // Python Backend Developer
+      title: IT Auditor // Python Backend Developer
       institution: Protiviti
       year: 2024 - 2026
     - title: UIUC iSchool Advisor
