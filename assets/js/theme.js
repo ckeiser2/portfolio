@@ -128,7 +128,7 @@ let addMermaidZoom = (records, observer) => {
 };
 
 let setMermaidTheme = (theme) => {
-  if (theme == "light") {
+  if (theme == "dark") {
     // light theme name in mermaid is 'default'
     // https://mermaid.js.org/config/theming.html#available-themes
     theme = "default";
