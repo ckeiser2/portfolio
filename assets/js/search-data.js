@@ -204,13 +204,6 @@ ninja.data = [{
           window.open("https://github.com/ckeiser2/portfolio", "_blank");
         },
       },{
-        id: 'social-game',
-        title: 'Game',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
