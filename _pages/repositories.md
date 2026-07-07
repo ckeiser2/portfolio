@@ -60,7 +60,8 @@ nav_order: 4
 </div>
 {% endif %}
 
+---
 
-### Repo for showcasing github stats
+## Repo for showcasing github stats
 
 [Colton Keiser - Github Stats Repo](https://github.com/ckeiser2/keiser-github-stats)
