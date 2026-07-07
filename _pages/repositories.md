@@ -59,9 +59,3 @@ nav_order: 4
   {% include repository/repo_langs.liquid username=site.repo_langs.username %}
 </div>
 {% endif %}
-
----
-
-## Repo for showcasing github stats
-
-[Colton Keiser - Github Stats Repo](https://github.com/ckeiser2/keiser-github-stats)
