@@ -9,6 +9,12 @@
   - [Contributing](#contributing)
   - [License](#license)
 
+# GitHub Stats Card
+
+```md
+[![Colton's GitHub stats](https://keiser-github-stats.vercel.app/api?username=ckeiser2)](https://github.com/ckeiser2/github-readme-stats)
+```
+
 ## Getting started
 
 Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/). Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
