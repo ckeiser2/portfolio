@@ -18,7 +18,7 @@ description: Choose your own adventure short story, with 18 possible endings. Pl
   width="140%"
   height="750"
   style="border: none; border-radius: 8px;"
-  loading="lazy">
+  loading="eager">
 </iframe>
 
 ---
