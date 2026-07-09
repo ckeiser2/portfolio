@@ -9,11 +9,6 @@
   - [Contributing](#contributing)
   - [License](#license)
 
-# GitHub Stats Card
-
-```md
-[![Colton's GitHub stats](https://keiser-github-stats.vercel.app/api?username=ckeiser2)](https://github.com/ckeiser2/github-readme-stats)
-```
 
 ## Getting started
 
@@ -36,6 +31,11 @@ For frequently asked questions, please refer to [FAQ.md](FAQ.md).
 Contributions to al-folio are very welcome! Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
 
 If you would like to improve documentation or fix a minor inconsistency or bug, please feel free to send a PR directly to `main`. For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
+
+## GitHub Stats Card
+
+[![Colton's GitHub stats-Dark](https://keiser-github-stats.vercel.app/api?username=ckeiser2\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/ckeiser2/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Colton's GitHub stats-Light](https://keiser-github-stats.vercel.app/api?username=ckeiser2\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/ckeiser2/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 ## License
 
