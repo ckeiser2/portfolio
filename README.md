@@ -5,8 +5,8 @@
 
 ## GitHub Stats Card
 
-[![Colton's GitHub stats-Dark](https://keiser-github-stats.vercel.app/api?username=ckeiser2\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/ckeiser2/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Colton's GitHub stats-Light](https://keiser-github-stats.vercel.app/api?username=ckeiser2\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/ckeiser2/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Colton's GitHub stats-Dark](https://keiser-github-stats.vercel.app/api?username=ckeiser2\&show_icons=true\&theme=ambient_gradient#gh-dark-mode-only)](https://github.com/ckeiser2/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Colton's GitHub stats-Light](https://keiser-github-stats.vercel.app/api?username=ckeiser2\&show_icons=true\&theme=maroongold#gh-light-mode-only)](https://github.com/ckeiser2/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 ## License
 
