@@ -211,14 +211,30 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.profile.float-right {
-  margin-left: 1rem;
+.profile-wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 3rem;
+    margin: 3rem 0;
 }
 
-.profile.float-left {
-  margin-right: 1rem;
+.profile-wrapper.image-right {
+    flex-direction: row-reverse;
 }
 
+.profile-image {
+    flex: 0 0 360px;
+}
+
+.profile-image img {
+    width: 100%;
+    display: block;
+}
+
+.profile-content {
+    flex: 1;
+    min-width: 0;
+}
 @media (min-width: 576px) {
   .profile {
     width: 30%;
