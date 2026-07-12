@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: 
+  image: me3.png
   image_circular: false # crops the image to make it circular
   more_info: >
     
