@@ -7,7 +7,7 @@ subtitle: >
   Colton Keiser, Senior IT Auditor | Backend Developer
 
 profile:
-  align: 
+  align: right
   image: me3.png
   image_circular: false # crops the image to make it circular
   more_info: >
