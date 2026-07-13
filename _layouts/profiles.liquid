@@ -17,9 +17,10 @@
               {% endif %}
 
               {% capture sizes %}
-              (min-width: {{ site.max_width }}) 275px,
-              (min-width: 768px) 30vw,
-              90vw
+              (min-width: {{ site.max_width }}) 320px,
+              (min-width: 1200px) 320px,
+              (min-width: 768px) 25vw,
+              80vw
               {% endcapture %}
 
               {% include figure.liquid
