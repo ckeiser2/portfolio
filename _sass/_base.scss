@@ -196,7 +196,7 @@ ul.task-list input[type="checkbox"] {
 
 // Profile
 .portfolio-container {
-  max-width: 2500;
+  max-width: 2000;
   margin: 0 auto;
   padding-inline: 2rem;
 }
@@ -205,7 +205,7 @@ ul.task-list input[type="checkbox"] {
   display: flex;
   align-items: flex-start;
   gap: 3rem;
-  margin: 3rem 0;
+  margin: 2rem 0;
 }
 
 .profile-wrapper.image-right {
@@ -249,7 +249,7 @@ ul.task-list input[type="checkbox"] {
 
   .profile-image {
     flex: none;
-    width: 75%;
+    width: 35%;
     max-width: 160px;
   }
 
