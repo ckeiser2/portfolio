@@ -33,11 +33,6 @@ latest_posts:
 A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
 
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 
 ### **About Me**
 
