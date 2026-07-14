@@ -29,7 +29,7 @@ Options > to Control Volume.
 <div class="game-frame">
   <iframe
     src="{{ site.baseurl }}/assets/games/rpgmaker/Project1/index.html"
-    width="100%"
+    width="75%"
     height="640"
     frameborder="0"
     allowfullscreen>

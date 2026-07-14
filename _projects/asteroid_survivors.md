@@ -19,7 +19,7 @@ Shift: dash *Need to unlock from shop via "Thrusters*
 <div class="game-frame">
   <iframe
     src="{{ site.baseurl }}/assets/games/asteroid_survivors/index.html"
-    width="108%"
+    width="65%"
     height="675"
     frameborder="0"
     allowfullscreen>
