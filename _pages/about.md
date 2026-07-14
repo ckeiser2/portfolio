@@ -33,8 +33,9 @@ latest_posts:
 
 A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
 
+Refer to the socials and tabs above for further information.
 
-
+<br>
 <br>
 <br>
 
