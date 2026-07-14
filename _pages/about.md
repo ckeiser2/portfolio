@@ -29,7 +29,7 @@ latest_posts:
 
 <img src="{{ site.baseurl }}/assets/img/me3.png"
     alt="pfp"
-   style="float: right; width: 240px; margin-left: 2rem;">
+   style="float: right; width: 240px; margin-left: 1.75rem;">
 
 A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
 
