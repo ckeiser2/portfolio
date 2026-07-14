@@ -32,11 +32,9 @@ latest_posts:
 
 A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
 
-<img
-  src="{{ site.baseurl }}/assets/img/me3.png"
-  alt="pfp"
-  style="float: right; width: 240px; margin-left: 2rem;"
->
+<img src="{{ site.baseurl }}/assets/img/me3.png"
+    alt="pfp"
+   style="float: right; width: 240px; margin-left: 2rem;">
 
 <br>
 <br>
