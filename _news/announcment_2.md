@@ -9,7 +9,8 @@ Release of a playable demo of  [Asteroid Survivors](https://ckeiser2.github.io/p
 
 <br>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/as_menu.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
+<img
+  src="{{ site.baseurl }}/assets/img/as_menu.png"
+  alt="pfp"
+  style="float: left; width: 240px; margin-left: 1rem;"
+>
