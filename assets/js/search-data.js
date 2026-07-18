@@ -76,7 +76,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/wizzywig/";
-            },},{id: "news-release-of-portfolio-2-0-current-site",
+            },},{id: "news-graduated-from-the-university-of-illinois-urbana-champaign-with-my-bachelor-of-science-in-information-sciences",
+          title: 'Graduated from the University of Illinois Urbana-Champaign with my Bachelor of Science in...',
+          description: "",
+          section: "News",},{id: "news-release-of-portfolio-2-0-current-site",
           title: 'Release of portfolio 2.0 (Current Site)',
           description: "",
           section: "News",},{id: "news-started-development-of-my-3d-unity-game-roll-a-ball",
