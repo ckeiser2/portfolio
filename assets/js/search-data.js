@@ -187,21 +187,21 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/{"logo"=>"assets/img/linkedin.png", "title"=>"Linkedin", "url"=>"https://www.linkedin.com/in/colton-keiser/"}", "_blank");
+          window.open("https://www.linkedin.com/in/colton-keiser/", "_blank");
         },
       },{
         id: 'social-handshake',
         title: 'Handshake',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.handshake.com/profiles/{"logo"=>"assets/img/handshake.png", "title"=>"Handshake", "url"=>"https://illinois.joinhandshake.com/profiles/colton_keiser"}", "_blank");
+          window.open("https://www.handshake.com/profiles/colton_keiser", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/{"title"=>"github", "url"=>"https://github.com/ckeiser2/portfolio"}", "_blank");
+          window.open("https://github.com/ckeiser2/portfolio", "_blank");
         },
       },{
       id: 'light-theme',
