@@ -8,17 +8,12 @@ email: colton.dev02@gmail.com # your email address
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-linkedin: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  title: Linkedin
-  url: https://www.linkedin.com/in/colton-keiser/
+linkedin: colton-keiser/ # can be any name here other than the ones already defined in the jekyll-socials plugin
 
-handshake: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  title: Handshake
-  url: https://illinois.joinhandshake.com/profiles/colton_keiser
+handshake: colton_keiser # can be any name here other than the ones already defined in the jekyll-socials plugin
 
-github : # can be any name here other than the ones already defined in the jekyll-socials plugin
-  title: github
-  url: https://github.com/ckeiser2/portfolio
+
+github: ckeiser2/portfolio # can be any name here other than the ones already defined in the jekyll-socials plugin
 
 #previous portfolio : # can be any name here other than the ones already defined in the jekyll-socials plugin
 #  logo: assets/img/me_pic.png # can be png, svg, jpg
