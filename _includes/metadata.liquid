@@ -111,7 +111,7 @@
       {% when 'flickr_id' %}
         {% capture link %}https://www.flickr.com/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
-      {% when 'github_username' %}
+      {% when 'github' %}
         {% capture link %}https://github.com/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'gitlab_username' %}
@@ -144,8 +144,11 @@
       {% when 'leetcode_id' %}
         {% capture link %}https://leetcode.com/u/{{ social[1] }}/{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
-      {% when 'linkedin_username' %}
+      {% when 'linkedin' %}
         {% capture link %}https://www.linkedin.com/in/{{ social[1] }}{% endcapture %}
+        {% assign sameaslinks = sameaslinks | push: link %}
+      {% when 'handshake' %}
+        {% capture link %}https://www.handshake.com/profiles/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'mastodon_username' %}
         {% capture link %}https://{{ social[1] }}{% endcapture %}

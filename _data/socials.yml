@@ -18,9 +18,8 @@ handshake: # can be any name here other than the ones already defined in the jek
   title: Handshake
   url: https://illinois.joinhandshake.com/profiles/colton_keiser
 
-repo : # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: assets/img/github.png # can be png, svg, jpg
-  title: repo
+github : # can be any name here other than the ones already defined in the jekyll-socials plugin
+  title: github
   url: https://github.com/ckeiser2/portfolio
 
 #previous portfolio : # can be any name here other than the ones already defined in the jekyll-socials plugin

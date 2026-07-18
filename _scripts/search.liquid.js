@@ -143,7 +143,7 @@ ninja.data = [
           {%- assign social_id = "social-flickr" -%}
           {%- assign social_title = "Flickr" -%}
           {%- capture social_url %}"https://www.flickr.com/{{ social[1] }}"{% endcapture -%}
-        {%- when "github_username" -%}
+        {%- when "github" -%}
           {%- assign social_id = "social-github" -%}
           {%- assign social_title = "GitHub" -%}
           {%- capture social_url %}"https://github.com/{{ social[1] }}"{% endcapture -%}
@@ -187,10 +187,14 @@ ninja.data = [
           {%- assign social_id = "social-leetcode" -%}
           {%- assign social_title = "LeetCode" -%}
           {%- capture social_url %}"https://leetcode.com/u/{{ social[1] }}/"{% endcapture -%}
-        {%- when "linkedin_username" -%}
+        {%- when "linkedin" -%}
           {%- assign social_id = "social-linkedin" -%}
           {%- assign social_title = "LinkedIn" -%}
           {%- capture social_url %}"https://www.linkedin.com/in/{{ social[1] }}"{% endcapture -%}
+        {%- when "handshake" -%}
+          {%- assign social_id = "social-handshake" -%}
+          {%- assign social_title = "Handshake" -%}
+          {%- capture social_url %}"https://www.handshake.com/profiles/{{ social[1] }}"{% endcapture -%}
         {%- when "mastodon_username" -%}
           {%- assign social_id = "social-mastodon" -%}
           {%- assign social_title = "Mastodon" -%}
