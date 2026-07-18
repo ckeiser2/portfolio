@@ -663,25 +663,46 @@ footer.sticky-bottom {
 // Repositories
 .repositories {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
   gap: 2rem;
   width: 100%;
+  margin: 2rem 0;
+  align-items: start;
+  justify-items: center;
 }
 
-@media (min-width: 768px) {
-  .repo {
-    max-width: 650px;
-    margin-left: auto;
-    margin-right: auto;
+.repo {
+  width: 100%;
+  max-width: 560px;
+  padding: 0.75rem !important;
+
+  a {
+    display: block;
+    text-decoration: none;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.2s ease;
+  }
+
+  &:hover img {
+    transform: translateY(-3px);
   }
 }
 
-@media (min-width: 1200px) {
+@media (max-width: 768px) {
+  .repositories {
+    grid-template-columns: 1fr;
+  }
+
   .repo {
-    max-width: 700px;
+    max-width: 100%;
   }
 }
-
 // Blog
 
 .header-bar {

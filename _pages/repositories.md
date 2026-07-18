@@ -11,7 +11,7 @@ nav_order: 4
 
 ## **My GitHub Stats**
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories">
   {% for user in site.data.repositories.github_users %}
     {% include repository/repo_user.liquid username=user %}
   {% endfor %}
@@ -25,7 +25,7 @@ nav_order: 4
 
   <h4>{{ user }}</h4>
   {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  <div class="repositories">
   {% include repository/repo_trophies.liquid username=user %}
   </div>
 
@@ -39,7 +39,7 @@ nav_order: 4
 
 ## **My GitHub Repositories**
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories">
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
@@ -55,7 +55,7 @@ nav_order: 4
 
 - Removed tracking of jupyter_notebooks, html, css, shell, GAP, liquid and scss as two projects are portfolios, did not want to skew the numbers.
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories">
   {% include repository/repo_langs.liquid username=site.repo_langs.username %}
 </div>
 {% endif %}
