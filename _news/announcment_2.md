@@ -5,4 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Release of a playable demo of [Asteroid Survivors](https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/)
+Release of a playable demo of  [Asteroid Survivors](https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/)
+
+
+<img src="{{ site.baseurl }}/assets/img/as_menu.png" alt="as">
