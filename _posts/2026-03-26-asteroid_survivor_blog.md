@@ -114,6 +114,8 @@ Each flying object has it's own:
         {% include figure.liquid path="assets/pngs/game_radar.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 
+<br>
+
 ##### New Feature 5.31.2026
 
 - Added interactive UI, the "battery" on the left side indicates when the cooldown of the shield "Mr.S" is off cooldown and is transparent when on cooldown.
