@@ -83,7 +83,7 @@ ninja.data = [{
           title: 'Started development of my 3D Unity game Roll-a-Ball',
           description: "",
           section: "News",},{id: "news-release-of-a-playable-demo-of-asteroid-survivors",
-          title: 'Release of a playable demo of Asteroid Survivors',
+          title: 'Release of a playable demo of  Asteroid Survivors',
           description: "",
           section: "News",},{id: "news-promoted-to-senior-consultant-in-it-audit-protiviti",
           title: 'Promoted to Senior Consultant in IT Audit @ Protiviti',
@@ -202,6 +202,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/ckeiser2/portfolio", "_blank");
+        },
+      },{
+        id: 'social-game',
+        title: 'Game',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/", "_blank");
         },
       },{
       id: 'light-theme',
