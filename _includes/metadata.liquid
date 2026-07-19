@@ -148,7 +148,7 @@
         {% capture link %}https://www.linkedin.com/in/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'handshake' %}
-        {% capture link %}https://www.handshake.com/profiles/{{ social[1] }}{% endcapture %}
+        {% capture link %}https://illinois.joinhandshake.com/profiles/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'mastodon_username' %}
         {% capture link %}https://{{ social[1] }}{% endcapture %}

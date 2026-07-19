@@ -194,7 +194,7 @@ ninja.data = [
         {%- when "handshake" -%}
           {%- assign social_id = "social-handshake" -%}
           {%- assign social_title = "Handshake" -%}
-          {%- capture social_url %}"https://www.handshake.com/profiles/{{ social[1] }}"{% endcapture -%}
+          {%- capture social_url %}"https://illinois.joinhandshake.com/profiles/{{ social[1] }}"{% endcapture -%}
         {%- when "mastodon_username" -%}
           {%- assign social_id = "social-mastodon" -%}
           {%- assign social_title = "Mastodon" -%}
