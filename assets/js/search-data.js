@@ -88,7 +88,7 @@ ninja.data = [{
           section: "News",},{id: "news-started-development-of-my-3d-unity-game-roll-a-ball",
           title: 'Started development of my 3D Unity game Roll-a-Ball',
           description: "",
-          section: "News",},{id: "news-release-of-a-playable-demo-of-asteroid-survivors-amp-lt-img-src-portfolio-assets-img-as-menu-png-alt-pfp-style-float-left-width-240px-margin-left-1rem",
+          section: "News",},{id: "news-release-of-a-playable-demo-of-asteroid-survivors-amp-lt-img-src-portfolio-assets-img-as-menu-png-alt-pfp-style-float-left-width-240px",
           title: 'Release of a playable demo of Asteroid Survivors &amp;amp;lt;img src=”/portfolio/assets/img/as_menu.png” alt=”pfp” style=”float: left;...',
           description: "",
           section: "News",},{id: "news-promoted-to-senior-consultant-in-it-audit-protiviti",
