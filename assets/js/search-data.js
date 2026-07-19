@@ -200,7 +200,7 @@ ninja.data = [{
         title: 'Handshake',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.handshake.com/profiles/colton_keiser", "_blank");
+          window.open("https://illinois.joinhandshake.com/profiles/colton_keiser", "_blank");
         },
       },{
         id: 'social-github',
