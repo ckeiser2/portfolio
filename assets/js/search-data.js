@@ -76,8 +76,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/wizzywig/";
-            },},{id: "news-deployed-my-first-ever-online-portfolio-now-replaced-by-this-current-site-old-portfolio-link-https-ckeiser2-github-io",
-          title: 'Deployed my first ever online portfolio (Now replaced by this current site) (Old_Portfolio_Link)[https://ckeiser2.github.io/]...',
+            },},{id: "news-deployed-my-first-ever-online-portfolio-now-replaced-by-this-current-site-old-portfolio-link",
+          title: 'Deployed my first ever online portfolio (Now replaced by this current site) Old_Portfolio_Link...',
           description: "",
           section: "News",},{id: "news-graduated-from-the-university-of-illinois-urbana-champaign-with-my-bachelor-of-science-in-information-sciences",
           title: 'Graduated from the University of Illinois Urbana-Champaign with my Bachelor of Science in...',
