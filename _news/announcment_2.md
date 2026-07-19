@@ -12,5 +12,5 @@ Release of a playable demo of  [Asteroid Survivors](https://ckeiser2.github.io/p
 <img
   src="{{ site.baseurl }}/assets/img/as_menu.png"
   alt="pfp"
-  style="float: left; width: 240px; margin-left: 1rem;"
+  style="float: left; width: 240px;"
 >
