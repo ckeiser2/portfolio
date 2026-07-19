@@ -7,10 +7,3 @@ related_posts: false
 
 Release of a playable demo of  [Asteroid Survivors](https://ckeiser2.github.io/portfolio/projects/asteroid_survivors/)
 
-<br>
-
-<img
-  src="{{ site.baseurl }}/assets/img/as_menu.png"
-  alt="as menu"
-  style="float: left; width: 240px;"
->
