@@ -167,6 +167,11 @@ ninja.data = [{
           description: "Unity demo excercise where you play as a ball collecting consumables, dodging enemies.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/unity_game1/";
+            },},{id: "projects-playable-and-adding-updates-vehiclesim",
+          title: 'Playable and adding updates [VehicleSim] 🎮',
+          description: "Multiple vehicle based minigames currently in process of testing features and creating levels.",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/projects/vehicle_sim/";
             },},{id: "projects-text-analysis-visualization",
           title: '📊 Text Analysis Visualization',
           description: "Python project | Data Scraping | Altair",
