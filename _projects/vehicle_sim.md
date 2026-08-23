@@ -9,6 +9,8 @@ category: games 🎮
 
 *Note*: Will only work on Desktop, as no mobile inputs are in source code. For full screen click on icon in bottom right. Click "esc" to exit fullscreen mode.
 
+*Note*: The "Car Game" minigame has local multiplayer developed as a test feature with one user utilizing "W, A, S, D" for movement while the other user would use the keyboards arrow keys. 
+
 <div class="game-frame">
   <iframe
     src="{{ site.baseurl }}/assets/games/vehicle_sim/index.html"
