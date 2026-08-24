@@ -27,10 +27,6 @@ latest_posts:
 
 ---
 
-<img src="{{ site.baseurl }}/assets/img/me3.png"
-    alt="pfp"
-   style="float: right; width: 240px; margin-left: 1.75rem;">
-
 A compilation of all technical projects, experience, and repositories. Website is actively being maintained.
 
 Refer to the socials and tabs above/below for further information
@@ -43,6 +39,8 @@ Refer to the socials and tabs above/below for further information
 ### **Projects/Experience**
 
 - #### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters/)**
+
+- #### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
 
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
 

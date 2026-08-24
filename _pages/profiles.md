@@ -1,9 +1,9 @@
 ---
 layout: about
 permalink: /about_me/
-title: about me
+title: about_me
 description:
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
