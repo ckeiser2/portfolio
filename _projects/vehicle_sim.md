@@ -11,13 +11,5 @@ category: games 🎮
 
 *Note*: The "Car Game" minigame has local multiplayer developed as a test feature with one user utilizing "W, A, S, D" for movement while the other user would use the keyboards arrow keys. 
 
-<div class="game-embed">
-  <iframe
-    src="https://keiserdev.itch.io/vehicle-sim"
-    width="100%"
-    height="600"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe frameborder="0" src="https://itch.io/embed-upload/18941237?color=333333" allowfullscreen="" width="600" height="320"><a href="https://keiserdev.itch.io/vehicle-sim">Play Vehicle Sim on itch.io</a></iframe>
 ---

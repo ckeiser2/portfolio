@@ -13,15 +13,7 @@ description: Choose your own adventure short story, with 18 possible endings. Pl
 ##### Role: Solo Developer
 
 ## Playable Version of game below 🕹️
-<div class="game-embed">
-  <iframe
-    src="https://keiserdev.itch.io/a-myconid-story"
-    width="100%"
-    height="600"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe frameborder="0" src="https://itch.io/embed-upload/18941488?color=333333" allowfullscreen="" width="600" height="320"><a href="https://keiserdev.itch.io/a-myconid-story">Play A Myconid Story on itch.io</a></iframe>
 
 
 ---
