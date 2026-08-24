@@ -3,7 +3,7 @@ layout: page
 title: Unity Game Programming Examples
 permalink: /masters/
 description: A collection of projects from my Masters in Game Dev program.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [unity]
 horizontal: false
