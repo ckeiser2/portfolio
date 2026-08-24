@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-game-projects",
+  },{id: "nav-about-me",
+          title: "about me",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/about_me/";
+          },
+        },{id: "nav-game-projects",
           title: "game projects",
           description: "A growing collection of my game related projects.",
           section: "Navigation",
@@ -36,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/resume/";
-          },
-        },{id: "nav-about-me",
-          title: "about me",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/about_me/";
           },
         },{id: "dropdown-blog",
               title: "blog",
