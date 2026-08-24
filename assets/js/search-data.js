@@ -225,6 +225,13 @@ ninja.data = [{
           window.open("https://github.com/ckeiser2/portfolio", "_blank");
         },
       },{
+        id: 'social-itch',
+        title: 'Itch.io',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://keiserdev.itch.io/", "_blank");
+        },
+      },{
         id: 'social-game',
         title: 'Game',
         section: 'Socials',
