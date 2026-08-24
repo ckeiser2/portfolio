@@ -16,10 +16,24 @@ Space bar: shoot
 Shift: dash *Need to unlock from shop via "Thrusters*
 ```
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/18941111?color=333333" allowfullscreen="" width="600" height="320"><a href="https://keiserdev.itch.io/asteroid-survivors">Play Asteroid Survivors on itch.io</a></iframe>
+<div class="game-frame">
+  <iframe
+    src="{{ site.baseurl }}/assets/games/asteroid_survivors/index.html"
+    width="108%"
+    height="800"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 ---
 
 ### Refer to the Asteroid Survivors blog for dev details
 
 [Asteroid_Survivors_Blog](https://ckeiser2.github.io/portfolio/blog/2026/asteroid_survivor_blog/)
+
+---
+
+Itch.io page
+<iframe frameborder="0" src="https://itch.io/embed/4932679" width="552" height="167"><a href="https://keiserdev.itch.io/asteroid-survivors">Asteroid Survivors by keiserdev</a></iframe>

@@ -10,6 +10,19 @@ category: games 🎮
 *Note*: Will only work on Desktop, as no mobile inputs are in source code. For full screen click on icon in bottom right. Click "esc" to exit fullscreen mode.
 
 *Note*: The "Car Game" minigame has local multiplayer developed as a test feature with one user utilizing "W, A, S, D" for movement while the other user would use the keyboards arrow keys. 
+<div class="game-frame">
+  <iframe
+    src="{{ site.baseurl }}/assets/games/vehicle_sim/index.html"
+    width="65%"
+    height="675"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/18941237?color=333333" allowfullscreen="" width="800" height="600"><a href="https://keiserdev.itch.io/vehicle-sim">Play Vehicle Sim on itch.io</a></iframe>
+---
+
+Also in Itch.io
+<iframe frameborder="0" src="https://itch.io/embed/4932720" width="552" height="167"><a href="https://keiserdev.itch.io/vehicle-sim">Vehicle Sim by keiserdev</a></iframe>
+
 ---

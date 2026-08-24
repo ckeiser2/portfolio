@@ -13,8 +13,13 @@ description: Choose your own adventure short story, with 18 possible endings. Pl
 ##### Role: Solo Developer
 
 ## Playable Version of game below 🕹️
-<iframe frameborder="0" src="https://itch.io/embed-upload/18941488?color=333333" allowfullscreen="" width="800" height="600"><a href="https://keiserdev.itch.io/a-myconid-story">Play A Myconid Story on itch.io</a></iframe>
-
+<iframe
+  src="{{ 'assets/games/dnd.html' | relative_url }}"
+  width="140%"
+  height="750"
+  style="border: none; border-radius: 8px;"
+  loading="eager">
+</iframe>
 
 ---
 
@@ -79,7 +84,17 @@ Ending 2/18
 *Your perception check D100: $D100 and D6: $D6 *
 	The party comes across an old man, a Hermit. He offers his aid to get through the thicket. He lives in a cottage near the entrance of the dense woods. An old man but once a great warrior and companion of the King of Caldea He could be quite helpful in helping the party cross the Thicket. [[Accept Hermit Aid]]
 ]
+
 ```
+
+---
+
+Also included in Itch.io
+
+<iframe frameborder="0" src="https://itch.io/embed/4932659" width="552" height="167"><a href="https://keiserdev.itch.io/a-myconid-story">A Myconid Story by keiserdev</a></iframe>
+
+
+
 
 
 
