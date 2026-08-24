@@ -1,3 +1,9 @@
+
+<img src="{{ site.baseurl }}/assets/img/me3.png"
+    alt="pfp"
+   style="float: right; width: 240px; margin-left: 1.75rem;">
+
+
 Graduated from the University of Illinois with a Bachelor’s in Information Sciences and a Minor in Game Studies and Design in Spring 2024. Currently working as a Senior IT Auditor for a consulting firm while also involved in their internal application/tool development team as a python backend developer.
 
 Actively pursuing a M.S. in Game Development at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
