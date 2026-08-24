@@ -40,14 +40,6 @@ Refer to the socials and tabs above/below for further information
 <br>
 <br>
 
-### **About Me**
-
-Graduated from the **University of Illinois** with a **Bachelor’s in Information Sciences** and a Minor in Game Studies and Design in Spring 2024. Currently working as a Senior IT Auditor for a consulting firm while also involved in their internal application/tool development team as a **python backend developer**.
-
-Actively pursuing a **M.S. in Game Development** at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
-
-In my free time I enjoy gaming, reading and a mixture of weight and endurance training. I am actively training for a 10k!! Additionally, pursuing a junior developer and power platforms certification as well!
-
 ### **Projects/Experience**
 
 - #### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters/)**
