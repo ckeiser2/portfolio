@@ -31,16 +31,11 @@ A compilation of all technical projects, experience, and repositories. Website i
 
 Refer to the socials and tabs above/below for further information
 
-<br>
-<br>
-<br>
-<br>
+### Tabs/Projects/Overview
 
-### **Projects/Experience**
+- ##### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters/)**
 
-- #### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters/)**
-
-- #### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
+- ##### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
 
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
 
