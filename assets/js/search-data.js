@@ -9,22 +9,15 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-about-me",
-          title: "about me",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/about_me/";
-          },
-        },{id: "nav-game-projects",
-          title: "game projects",
+  },{id: "nav-game-projs",
+          title: "game_projs",
           description: "A growing collection of my game related projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/games/";
           },
-        },{id: "nav-data-projects",
-          title: "data projects",
+        },{id: "nav-py-projs",
+          title: "py_projs",
           description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Games&quot;, &quot;Python&quot;, and &quot;Ruby&quot; sections.",
           section: "Navigation",
           handler: () => {
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/resume/";
+          },
+        },{id: "nav-about-me",
+          title: "about me",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/about_me/";
           },
         },{id: "dropdown-blog",
               title: "blog",
