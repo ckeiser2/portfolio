@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unity Game Programming Examples
-permalink: /games/
+permalink: /masters/
 description: A collection of projects from my Masters in Game Dev program.
 nav: true
 nav_order: 3
