@@ -50,6 +50,8 @@ In my free time I enjoy gaming, reading and a mixture of weight and endurance tr
 
 ### **Projects/Experience**
 
+- #### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters/)**
+
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
 
 - ##### **[Data Projects](https://ckeiser2.github.io/portfolio/projects/)**
