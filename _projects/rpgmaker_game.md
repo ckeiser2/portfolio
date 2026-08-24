@@ -26,7 +26,7 @@ Options > to Control Volume.
 """
 ```
 
-<iframe frameborder="0" src="https://itch.io/embed/4932709" width="552" height="167"><a href="https://keiserdev.itch.io/rpgmaker-game">RPGMaker Game by keiserdev</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/4932709" width="800" height="300"><a href="https://keiserdev.itch.io/rpgmaker-game">RPGMaker Game by keiserdev</a></iframe>
 
 ---
 
