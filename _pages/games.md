@@ -1,6 +1,6 @@
 ---
 layout: page
-title: game projects
+title: game_projs
 permalink: /games/
 description: A growing collection of my game related projects.
 nav: true
