@@ -26,11 +26,11 @@ Options > to Control Volume.
 """
 ```
 
-<div class="game-frame">
+<div class="game-embed">
   <iframe
-    src="{{ site.baseurl }}/assets/games/rpgmaker/Project1/index.html"
-    width="75%"
-    height="640"
+    src="https://keiserdev.itch.io/rpgmaker-game"
+    width="100%"
+    height="600"
     frameborder="0"
     allowfullscreen>
   </iframe>
