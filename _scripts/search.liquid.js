@@ -191,6 +191,10 @@ ninja.data = [
           {%- assign social_id = "social-linkedin" -%}
           {%- assign social_title = "LinkedIn" -%}
           {%- capture social_url %}"https://www.linkedin.com/in/{{ social[1] }}"{% endcapture -%}
+        {%- when "itch" -%}
+          {%- assign social_id = "social-itch" -%}
+          {%- assign social_title = "Itch.io" -%}
+          {%- capture social_url %}"https://{{ social[1] }}"{% endcapture -%}
         {%- when "handshake" -%}
           {%- assign social_id = "social-handshake" -%}
           {%- assign social_title = "Handshake" -%}
