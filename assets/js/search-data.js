@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/resume/";
           },
-        },{id: "nav-about-me",
-          title: "about me",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/about_me/";
-          },
         },{id: "dropdown-blog",
               title: "blog",
               description: "",
