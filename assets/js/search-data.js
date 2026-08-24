@@ -21,7 +21,7 @@ ninja.data = [{
           description: "A collection of projects from my Masters in Game Dev program.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/games/";
+            window.location.href = "/portfolio/masters/";
           },
         },{id: "nav-data-projects",
           title: "data projects",
