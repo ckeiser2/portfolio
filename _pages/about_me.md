@@ -20,7 +20,7 @@ profiles:
 
 <img src="{{ site.baseurl }}/assets/img/me3.png"
     alt="pfp"
-   style="float: left; width: 240px; margin-left: 1.75rem;">
+   style="float: right; width: 240px; margin-left: 1.75rem;">
 
 <br>
 Colton Keiser
