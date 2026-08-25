@@ -23,7 +23,9 @@ profiles:
    style="float: right; width: 240px; margin-left: 1.75rem;">
 
 <br>
-Colton Keiser
+
+#### **Colton Keiser**
+
 <br>
 
 
