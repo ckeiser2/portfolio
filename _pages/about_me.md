@@ -13,18 +13,14 @@ profiles:
     image:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      Colton Keiser
-      M.S. Game Development (Design)
-      University of Illinois (UIUC)
-      St. Louis, MO
+    more_info:
 ---
+
+### **About Me**
 
 <img src="{{ site.baseurl }}/assets/img/me3.png"
     alt="pfp"
    style="float: left; width: 240px; margin-left: 1.75rem;">
-
-### **About Me**
 
 Grew up in a rural area of central Illinois. Graduated from the **University of Illinois** with a **Bachelor’s in Information Sciences** and a Minor in Game Studies and Design in Spring 2024. Currently working as a Senior IT Auditor for a consulting firm while also involved in their internal application/tool development team as a **python backend developer** in St.Louis, MO.
 
