@@ -33,7 +33,9 @@ Refer to the socials and tabs above/below for further information
 
 ### Tabs/Projects/Overview
 
-- ##### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters/)**
+- ##### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters_programming/)**
+
+- ##### **[Masters: Animation Examples](https://ckeiser2.github.io/portfolio/masters_animation/)**
 
 - ##### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
 
