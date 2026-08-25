@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Unity Game Programming Examples
-permalink: /masters/
-description: A collection of projects from my Masters in Game Dev program.
+title: Animation Examples
+permalink: /masters_animation/
+description: A collection of animation projects from my Masters in Game Dev program.
 nav: false
 nav_order: 3
-display_categories: [unity]
+display_categories: [blender]
 horizontal: false
 ---
 

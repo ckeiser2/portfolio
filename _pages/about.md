@@ -39,7 +39,7 @@ Refer to the socials and tabs above/below for further information
 
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
 
-- ##### **[Data Projects](https://ckeiser2.github.io/portfolio/projects/)**
+- ##### **[Programming Projects](https://ckeiser2.github.io/portfolio/projects/)**
 
 - ##### **[Project Repos](https://ckeiser2.github.io/portfolio/repositories/)**
 

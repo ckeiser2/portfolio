@@ -14,6 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      Colton Keiser
       M.S. Game Development
       University of Illinois (UIUC)
       St. Louis, MO
@@ -25,10 +26,10 @@ profiles:
     alt="pfp"
    style="float: right; width: 240px; margin-left: 1.75rem;">
 
-Graduated from the **University of Illinois** with a **Bachelor’s in Information Sciences** and a Minor in Game Studies and Design in Spring 2024. Currently working as a Senior IT Auditor for a consulting firm while also involved in their internal application/tool development team as a **python backend developer**.
+Grew up in a rural area of central Illinois. Graduated from the **University of Illinois** with a **Bachelor’s in Information Sciences** and a Minor in Game Studies and Design in Spring 2024. Currently working as a Senior IT Auditor for a consulting firm while also involved in their internal application/tool development team as a **python backend developer** in St.Louis, MO.
 
-Actively pursuing a **M.S. in Game Development** at UIUC. This program allows me to work with Game Studios on industry projects as a part of coursework gaining professional experience.
+Some of my gaming interests recently have been a mixture of indie and AAA titles including Slay the Spire, Hollow Knight, Balatro, League of Legends and Marvel Rivals. My favorite game series of all time is Nintendo's "Pikmin"!
 
-In my free time I enjoy gaming, reading and a mixture of weight and endurance training. I am actively training for a 10k!! Additionally, pursuing a junior developer and power platforms certification as well!
+My career and educational goals would involve working in the game industry in a technical design role. 
 
-
+In my free time I enjoy learning new technical skills, gaming, reading and a mixture of weight and endurance training. Have ran a couple 5k and 10ks this year. Additionally, pursuing a Unity junior developer and a Microsoft Power Platforms certification as well!
