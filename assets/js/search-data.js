@@ -178,7 +178,7 @@ ninja.data = [{
           title: 'Playable and adding updates [VehicleSim] 🎮',
           description: "Multiple vehicle based minigames currently in process of testing features and creating levels.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/vehicle_sim/";
+              window.location.href = "/portfolio/games/vehicle-sim/";
             },},{id: "projects-text-analysis-visualization",
           title: '📊 Text Analysis Visualization',
           description: "Python project | Data Scraping | Altair",
