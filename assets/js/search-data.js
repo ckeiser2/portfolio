@@ -108,12 +108,12 @@ ninja.data = [{
           title: 'Playable and adding updates [Asteroid Survivors] 🎮',
           description: "2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/asteroid_survivors/";
+              window.location.href = "/portfolio/games/asteroid-survivors/";
             },},{id: "projects-design-barb-39-s-dungeon-️-️",
           title: '🎮 [Design] Barb&amp;#39;s Dungeon 🖋️ 🕹️',
           description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/barbs_dungeon/";
+              window.location.href = "/portfolio/games/barb-dun/";
             },},{id: "projects-first-ruby-jekyll-portfolio-site",
           title: 'First Ruby | Jekyll Portfolio Site',
           description: "Original portfolio site using Ruby&#39;s Jekyll site generator",
@@ -123,7 +123,7 @@ ninja.data = [{
           title: '🎮 Godot Game [2048 Knight] 🕹️',
           description: "C# in Godot Engine, Designed the UI and multiple systems.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/godot_game/";
+              window.location.href = "/portfolio/games/group-godot-project/";
             },},{id: "projects-machine-learning-via-tweets",
           title: 'Machine Learning via Tweets 🤖 🧠',
           description: "Training a model and creating a visualization based on Confidence score of the model using tweets from dataset from UIUC Data Science course.",
@@ -143,7 +143,7 @@ ninja.data = [{
           title: '🎮 RPGMaker game [Playable in Browser] 🕹️',
           description: "Short rpg project, utilizing javascript in the &quot;RPGMaker&quot; engine.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/rpgmaker_game/";
+              window.location.href = "/portfolio/games/rpg-game/";
             },},{id: "projects-geo-plotting-analysis",
           title: '📊 Geo Plotting / Analysis',
           description: "Using python libraries to use data over geo maps",
@@ -168,12 +168,12 @@ ninja.data = [{
           title: '🎮 Twine Game - &amp;quot;A Myconid&amp;#39;s Story&amp;quot; [Playable in Browser]🖋️ 🕹️',
           description: "Choose your own adventure short story, with 18 possible endings. Playable within Browser.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/twine_game/";
+              window.location.href = "/portfolio/games/myconid/";
             },},{id: "projects-in-progress-roll-a-ball",
           title: 'In Progress! [Roll-a-Ball] 🎮',
           description: "Unity demo excercise where you play as a ball collecting consumables, dodging enemies.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/projects/unity_game1/";
+              window.location.href = "/portfolio/games/ball/";
             },},{id: "projects-playable-and-adding-updates-vehiclesim",
           title: 'Playable and adding updates [VehicleSim] 🎮',
           description: "Multiple vehicle based minigames currently in process of testing features and creating levels.",
