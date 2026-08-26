@@ -16,12 +16,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/about_me/";
           },
+        },{id: "nav-unity-projs",
+          title: "Unity Projs",
+          description: "A collection of programming projects from my Masters in Game Dev program.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/masters_programming/";
+          },
+        },{id: "nav-blender-projs",
+          title: "Blender Projs",
+          description: "A collection of animation projects from my Masters in Game Dev program.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/masters_animation/";
+          },
         },{id: "nav-game-projs",
           title: "game_projs",
           description: "A growing collection of my game related projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/games/";
+          },
+        },{id: "nav-py-projs",
+          title: "py_projs",
+          description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Games&quot;, &quot;Python&quot;, and &quot;Ruby&quot; sections.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/projects/";
           },
         },{id: "nav-repos",
           title: "repos",
@@ -36,13 +57,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/resume/";
-          },
-        },{id: "nav-py-projs",
-          title: "py_projs",
-          description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Games&quot;, &quot;Python&quot;, and &quot;Ruby&quot; sections.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/projects/";
           },
         },{id: "dropdown-blog",
               title: "blog",
