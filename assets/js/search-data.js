@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
+        },{id: "nav-repos",
+          title: "repos",
           description: "A look at the repo behind this page and my other github projects. Stats are pulled by a javascript repo and hosted on Vercel for real time pulling of data.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/repositories/";
           },
-        },{id: "nav-experience",
-          title: "experience",
+        },{id: "nav-resume",
+          title: "resume",
           description: "Click on the icon to the right to see my Resume. Refer to the below to see futher details on my experience.",
           section: "Navigation",
           handler: () => {
