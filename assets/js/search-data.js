@@ -17,14 +17,14 @@ ninja.data = [{
             window.location.href = "/portfolio/about_me/";
           },
         },{id: "nav-unity-projs",
-          title: "Unity Projs",
+          title: "unity_projs",
           description: "A collection of programming projects from my Masters in Game Dev program.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/masters_programming/";
           },
         },{id: "nav-blender-projs",
-          title: "Blender Projs",
+          title: "blender_projs",
           description: "A collection of animation projects from my Masters in Game Dev program.",
           section: "Navigation",
           handler: () => {
