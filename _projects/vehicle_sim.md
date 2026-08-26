@@ -4,6 +4,7 @@ title: Playable and adding updates [VehicleSim] 🎮
 description: Multiple vehicle based minigames currently in process of testing features and creating levels. 
 img: assets/img/vs_title.png
 category: games 🎮
+permalink: /games/vehicle-sim/
 ---
 ##### Work in progress using Unity Learn as a reference for this project.
 
