@@ -3,7 +3,7 @@ layout: page
 title: Blender Projs
 permalink: /masters_animation/
 description: A collection of animation projects from my Masters in Game Dev program.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [blender]
 horizontal: false

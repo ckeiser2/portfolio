@@ -3,7 +3,7 @@ layout: page
 title: Unity Projs
 permalink: /masters_programming/
 description: A collection of programming projects from my Masters in Game Dev program.
-nav: false
+nav: true
 nav_order: 2
 display_categories: [unity]
 horizontal: false
