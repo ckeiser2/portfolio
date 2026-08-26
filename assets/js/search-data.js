@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/games/";
           },
-        },{id: "nav-py-projs",
-          title: "py_projs",
-          description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Games&quot;, &quot;Python&quot;, and &quot;Ruby&quot; sections.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/projects/";
-          },
         },{id: "nav-repos",
           title: "repos",
           description: "A look at the repo behind this page and my other github projects. Stats are pulled by a javascript repo and hosted on Vercel for real time pulling of data.",
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/resume/";
+          },
+        },{id: "nav-py-projs",
+          title: "py_projs",
+          description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Games&quot;, &quot;Python&quot;, and &quot;Ruby&quot; sections.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/projects/";
           },
         },{id: "dropdown-blog",
               title: "blog",
