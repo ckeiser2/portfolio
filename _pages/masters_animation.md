@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blender Projs
+title: blender_projs
 permalink: /masters_animation/
 description: A collection of animation projects from my Masters in Game Dev program.
 nav: true

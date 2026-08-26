@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unity Projs
+title: unity_projs
 permalink: /masters_programming/
 description: A collection of programming projects from my Masters in Game Dev program.
 nav: true
