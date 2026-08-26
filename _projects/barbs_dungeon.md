@@ -5,7 +5,7 @@ description: Group project apart of GSD 403 @ UIUC. Over the span of a semester 
 img: assets/pngs/barb_dungeon_systems.png
 category: games 🎮
 importance: 1
-
+permalink: /games/barb-dun/
 ---
 
 ##### Role: Systems Designer, Narrative Writer

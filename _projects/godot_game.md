@@ -6,7 +6,7 @@ category: games 🎮
 img: assets/pngs/godot.png
 layout: page
 description: C# in Godot Engine, Designed the UI and multiple systems.
-
+permalink: /games/group-godot-project/
 ---
 ## Skills Showcased
 *Godot:* *In-Engine Tools* 

@@ -4,7 +4,7 @@ category: games 🎮
 img: assets/pngs/html_story.png
 layout: page
 description: Choose your own adventure short story, with 18 possible endings. Playable within Browser.
-
+permalink: /games/myconid/
 ---
 ## Skills showcased
 *HTML & CSS* *In-Engine Tools* *JavaScript*

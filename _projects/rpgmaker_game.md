@@ -4,7 +4,7 @@ category: games 🎮
 img: assets/pngs/rpg_game.png
 layout: page
 description: Short rpg project, utilizing javascript in the "RPGMaker" engine.
-
+permalink: /games/rpg-game/
 ---
 ## 🎮 RPG Maker Project
 
