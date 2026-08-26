@@ -4,7 +4,7 @@ title: game_projs
 permalink: /games/
 description: A growing collection of my game related projects.
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [games 🎮]
 horizontal: false
 ---
