@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dropdown
+title: more
 nav: true
 nav_order: 8
 dropdown: true
@@ -8,6 +8,9 @@ children:
 #  - title: bookshelf
 #    permalink: /books/
 #  - title: divider
+  - title: py_projs
+    permalink: /projects/
+  - title: divider
   - title: blog
     permalink: /blog/
   - title: divider
