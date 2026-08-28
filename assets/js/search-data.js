@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/about_me/";
           },
+        },{id: "nav-godot-game-programming-examples",
+          title: "godot game programming examples",
+          description: "A collection of Godot projects from my Masters in Game Dev program.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/masters_godot/";
+          },
         },{id: "nav-unity-game-programming-examples",
           title: "unity game programming examples",
           description: "A collection of programming projects from my Masters in Game Dev program.",
