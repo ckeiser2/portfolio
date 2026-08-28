@@ -33,11 +33,12 @@ Refer to the socials and tabs above/below for further information
 
 ### Tabs/Projects/Overview
 
+
+- ##### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
+
 - ##### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters_programming/)**
 
 - ##### **[Masters: Animation Examples](https://ckeiser2.github.io/portfolio/masters_animation/)**
-
-- ##### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
 
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
 
