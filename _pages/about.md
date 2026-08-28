@@ -38,6 +38,8 @@ Refer to the socials and tabs above/below for further information
 
 - ##### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters_programming/)**
 
+- ##### **[Masters: Godot Game Programming Examples](https://ckeiser2.github.io/portfolio/masters_godot/)**
+
 - ##### **[Masters: Animation Examples](https://ckeiser2.github.io/portfolio/masters_animation/)**
 
 - ##### **[Game Projects](https://ckeiser2.github.io/portfolio/games/)**
