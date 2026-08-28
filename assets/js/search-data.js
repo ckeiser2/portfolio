@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/about_me/";
           },
-        },{id: "nav-unity-projs",
-          title: "unity_projs",
+        },{id: "nav-unity-game-programming-examples",
+          title: "unity game programming examples",
           description: "A collection of programming projects from my Masters in Game Dev program.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/masters_programming/";
           },
-        },{id: "nav-blender-projs",
-          title: "blender_projs",
+        },{id: "nav-animation-examples",
+          title: "animation examples",
           description: "A collection of animation projects from my Masters in Game Dev program.",
           section: "Navigation",
           handler: () => {
