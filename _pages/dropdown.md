@@ -11,6 +11,15 @@ children:
   - title: py_projs
     permalink: /projects/
   - title: divider
+  - title: game_projs
+    permalink: /games/
+  - title: divider
+  - title: repos
+    permalink: /repositories/
+  - title: divider
+  - title: resume
+    permalink: /resume/
+  - title: divider
   - title: blog
     permalink: /blog/
   - title: divider
