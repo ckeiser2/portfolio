@@ -65,6 +65,27 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/portfolio/projects/";
               },
+            },{id: "dropdown-game-projs",
+              title: "game_projs",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/games/";
+              },
+            },{id: "dropdown-repos",
+              title: "repos",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/repositories/";
+              },
+            },{id: "dropdown-resume",
+              title: "resume",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/resume/";
+              },
             },{id: "dropdown-blog",
               title: "blog",
               description: "",
