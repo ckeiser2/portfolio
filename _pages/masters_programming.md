@@ -4,7 +4,7 @@ title: unity game programming examples
 permalink: /masters_programming/
 description: A collection of programming projects from my Masters in Game Dev program.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [unity]
 horizontal: false
 ---

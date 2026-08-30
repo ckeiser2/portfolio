@@ -361,6 +361,7 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-size: 0.8rem;
 }
 
 .navbar .dropdown-menu,
@@ -422,7 +423,6 @@ ul.task-list input[type="checkbox"] {
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
-    font-size: 0.9rem;
     color: var(--global-theme-color);
 
     &:hover {
