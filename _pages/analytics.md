@@ -1,6 +1,6 @@
 ---
 layout: page
-title: site analytics
+title: Site Analytics
 permalink: /analytics/
 nav: false
 ---

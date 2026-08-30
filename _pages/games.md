@@ -3,8 +3,8 @@ layout: page
 title: Game Projects
 permalink: /games/
 description: A growing collection of my game related projects.
-nav: false
-nav_order: 
+nav: true
+nav_order: 5
 display_categories: [games 🎮]
 horizontal: false
 ---

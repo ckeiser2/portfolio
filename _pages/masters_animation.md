@@ -1,14 +1,13 @@
 ---
 layout: page
-title: animation examples
+title: Animation Examples
 permalink: /masters_animation/
-description: A collection of animation projects from my Masters in Game Dev program.
+description: A growing collection of animation projects
 nav: true
 nav_order: 4
 display_categories: [blender]
 horizontal: false
 ---
-
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

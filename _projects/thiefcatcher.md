@@ -1,10 +1,11 @@
 ﻿---
 title: Thief Catcher
+#permalink: /games/:name/
+category: games 🎮
 img: assets/img/thiefcatcher.png
 layout: page
-description: Playable within browser, game from masters learning godot.
+description: Created in Godot utilizing gdscript.
 permalink: /games/thiefcatcher/
-category: games 🎮
 ---
 
 ## Skills showcased

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repos
+title: Github Repos
 description: A look at the repo behind this page and my other github projects. Stats are pulled by a javascript repo and hosted on Vercel for real time pulling of data.
 nav: false
 nav_order: 

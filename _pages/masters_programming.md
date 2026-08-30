@@ -1,6 +1,6 @@
 ---
 layout: page
-title: unity game programming examples
+title: Unity Game Programming Examples
 permalink: /masters_programming/
 description: A collection of programming projects from my Masters in Game Dev program.
 nav: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  godot game programming examples
+title: Godot Game Programming Examples
 permalink: /masters_godot/
 description: A collection of Godot projects from my Masters in Game Dev program.
 nav: true

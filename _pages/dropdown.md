@@ -2,7 +2,7 @@
 layout: page
 title: more
 nav: true
-nav_order: 5
+nav_order: 6
 dropdown: true
 children:
 #  - title: bookshelf
@@ -14,13 +14,13 @@ children:
 #  - title: game_projs
 #    permalink: /games/
 #  - title: divider
-  - title: repos
+  - title: Github Repos
     permalink: /repositories/
   - title: divider
-  - title: resume
+  - title: Experience
     permalink: /resume/
   - title: divider
-  - title: blog
+  - title: Dev Blogs
     permalink: /blog/
   - title: divider
 #  - title: about me
@@ -29,7 +29,7 @@ children:
 #  - title: news
 #    permalink: /news/
 #  - title: divider
-  - title: site analytics
+  - title: Site Analytics
     permalink: /analytics/
 #  - title: divider
 #  - title: fun facts
