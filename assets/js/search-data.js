@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/masters_animation/";
           },
-        },{id: "nav-game-projects",
-          title: "Game Projects",
-          description: "A growing collection of my game related projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/games/";
-          },
         },{id: "dropdown-github-repos",
               title: "Github Repos",
               description: "",
@@ -118,8 +111,13 @@ ninja.data = [{
           section: "News",},{id: "news-promoted-to-senior-consultant-in-it-audit-protiviti",
           title: 'Promoted to Senior Consultant in IT Audit @ Protiviti',
           description: "",
-          section: "News",},{id: "projects-playable-and-adding-updates-asteroid-survivors",
-          title: 'Playable and adding updates [Asteroid Survivors] 🎮',
+          section: "News",},{id: "projects-project-1",
+          title: 'project 1',
+          description: "placeholder animation project",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/masters_animation/project1/";
+            },},{id: "projects-asteroid-survivors",
+          title: 'Asteroid Survivors',
           description: "2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/games/asteroid-survivors/";
@@ -143,6 +141,11 @@ ninja.data = [{
           description: "Training a model and creating a visualization based on Confidence score of the model using tweets from dataset from UIUC Data Science course.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/machine_learning/";
+            },},{id: "projects-unity-project-placeholder",
+          title: 'Unity Project Placeholder',
+          description: "Placeholder Unity project",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/masters_programming/unity1/";
             },},{id: "projects-network-clustering-analysis",
           title: '📊 Network Clustering Analysis',
           description: "Python project utilizing networkx",
@@ -173,6 +176,11 @@ ninja.data = [{
           description: "Sorting through text using strategies like Named Entity Recognition and POS Tagging",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/text_analysis_ner/";
+            },},{id: "projects-thief-catcher-game",
+          title: 'Thief Catcher Game',
+          description: "Created in Godot utilizing gdscript.",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/masters_godot/thiefcatcher/";
             },},{id: "projects-topic-modeling",
           title: '📊 Topic Modeling',
           description: "Topic Modeling with Python",

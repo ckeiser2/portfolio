@@ -1,9 +1,8 @@
 ﻿---
-title: Placeholder
-img: 
 layout: page
-description: Placeholder blender project
-permalink: /masters_animation/placeholder/
+title: Animation Placeholder
+description: Blender Project 1
 category: blender
-importance: 2
+permalink: /masters_animation/ani1/
 ---
+
