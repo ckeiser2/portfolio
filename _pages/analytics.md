@@ -2,7 +2,6 @@
 layout: page
 title: site analytics
 permalink: /analytics/
-weight: 2
 nav: false
 ---
 

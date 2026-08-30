@@ -4,7 +4,7 @@ title: Fun Facts
 description: Page with some fun facts about me!
 permalink: /facts/
 nav: false
-nav_order: 4
+nav_order: 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
