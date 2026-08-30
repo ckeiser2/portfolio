@@ -360,10 +360,7 @@ ul.task-list input[type="checkbox"] {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 1.0;
-  font-size: 0.9rem;
-  white-space: nowrap;
-  align-items: center;
+  opacity: 0.95;
 }
 
 .navbar .dropdown-menu,
@@ -425,12 +422,18 @@ ul.task-list input[type="checkbox"] {
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
+
     color: var(--global-theme-color);
 
     &:hover {
       color: var(--global-hover-color);
     }
   }
+
+
+
+
+
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
@@ -531,19 +534,19 @@ ul.task-list input[type="checkbox"] {
 
     a {
       img {
-        width: 1.0rem;
-        height: 1.0rem;
+        width: 3.2rem;
+        height: 3.2rem;
         margin-bottom: 1rem;
       }
 
       svg {
-        width: 1.0rem;
-        height: 1.0rem;
+        width: 3.5rem;
+        height: 4rem;
         margin-bottom: 0.5rem;
 
         image {
-          width: 1.0rem;
-          height: 1.0rem;
+          width: 3.5rem;
+          height: 3.5rem;
         }
       }
 
