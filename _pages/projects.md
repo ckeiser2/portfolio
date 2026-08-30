@@ -1,6 +1,6 @@
 ---
 layout: page
-title: py_projs
+title: python projects
 permalink: /projects/
 description: A growing collection of projects in gaming and various programming languages. Seperated currently by "Games", "Python", and "Ruby" sections.
 nav: false
