@@ -1,9 +1,9 @@
 ﻿---
 title: Thief Catcher
-img: assets/img/thiefcatcher.png
+img: assets/png/thiefcatcher.png
 layout: page
 description: Playable within browser, game from masters learning godot.
-permalink: /masters_godot/thiefcatcher/
+permalink: /masters_godot/thief/
 category: godot
 ---
 
