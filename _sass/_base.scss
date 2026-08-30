@@ -362,10 +362,9 @@ ul.task-list input[type="checkbox"] {
   background-color: var(--global-bg-color);
   opacity: 1.0;
   font-size: 0.9rem;
-  // white-space: nowrap;
-  // display: flex;
-  // align-items: center;
-  // font-weight: bolder;
+  white-space: nowrap;
+  align-items: center;
+  font-weight: bolder;
 
 }
 
