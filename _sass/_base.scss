@@ -362,9 +362,9 @@ ul.task-list input[type="checkbox"] {
   background-color: var(--global-bg-color);
   opacity: 1.0;
   font-size: 0.9rem;
-  white-space: nowrap;
-  display: flex;
-  align-items: center;
+  // white-space: nowrap;
+  // display: flex;
+  // align-items: center;
   // font-weight: bolder;
 
 }
@@ -433,11 +433,6 @@ ul.task-list input[type="checkbox"] {
     &:hover {
       color: var(--global-hover-color);
     }
-  }
-  .navbar-nav .nav-link {
-    white-space: nowrap;
-    display: flex;
-    align-items: center;
   }
   .navbar-brand.social {
     padding-bottom: 0;
