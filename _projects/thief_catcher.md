@@ -19,4 +19,4 @@ Use W,A,S,D for movement
 Push the thiefs into the vehicle 
 ```
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/19017558?color=333333" allowfullscreen="" width="640" height="380"><a href="https://keiserdev.itch.io/thiefgame">Play ThiefCatcher on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/19036303?color=333333" allowfullscreen="" width="800" height="620"><a href="https://keiserdev.itch.io/thiefgame">Play ThiefCatcher on itch.io</a></iframe>
