@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/masters_animation/";
           },
+        },{id: "nav-py-projs",
+          title: "py_projs",
+          description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Games&quot;, &quot;Python&quot;, and &quot;Ruby&quot; sections.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/projects/";
+          },
         },{id: "dropdown-py-projs",
               title: "py_projs",
               description: "",
