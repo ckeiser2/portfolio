@@ -361,6 +361,9 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  align-items: center;
 }
 
 .navbar .dropdown-menu,
@@ -530,23 +533,23 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1rem;
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
+        width: 1.0rem;
+        height: 1.0rem;
         margin-bottom: 1rem;
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
+        width: 1.0rem;
+        height: 1.0rem;
         margin-bottom: 0.5rem;
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 1.0rem;
+          height: 1.0rem;
         }
       }
 
