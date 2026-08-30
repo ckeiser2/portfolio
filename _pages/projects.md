@@ -3,7 +3,7 @@ layout: page
 title: Python Projects
 permalink: /projects/
 description: A growing collection of projects in gaming and various programming languages. Seperated currently by "Python", and "Ruby" sections.
-nav: true
+nav: false
 nav_order: 
 display_categories: [python 🐍,ruby 💎]
 horizontal: false
