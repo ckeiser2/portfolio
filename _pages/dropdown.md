@@ -8,12 +8,12 @@ children:
 #  - title: bookshelf
 #    permalink: /books/
 #  - title: divider
-  - title: py_projs
-    permalink: /projects/
-  - title: divider
-  - title: game_projs
-    permalink: /games/
-  - title: divider
+#  - title: py_projs
+#    permalink: /projects/
+#  - title: divider
+#  - title: game_projs
+#    permalink: /games/
+#  - title: divider
   - title: repos
     permalink: /repositories/
   - title: divider
