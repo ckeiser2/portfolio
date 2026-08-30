@@ -9,57 +9,71 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-about",
-          title: "about",
+  },{id: "nav-python-projects",
+          title: "Python Projects",
+          description: "A growing collection of projects in gaming and various programming languages. Seperated currently by &quot;Python&quot;, and &quot;Ruby&quot; sections.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/projects/";
+          },
+        },{id: "nav-about",
+          title: "About",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/about_me/";
           },
         },{id: "nav-godot-game-programming-examples",
-          title: "godot game programming examples",
+          title: "Godot Game Programming Examples",
           description: "A collection of Godot projects from my Masters in Game Dev program.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/masters_godot/";
           },
         },{id: "nav-unity-game-programming-examples",
-          title: "unity game programming examples",
+          title: "Unity Game Programming Examples",
           description: "A collection of programming projects from my Masters in Game Dev program.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/masters_programming/";
           },
         },{id: "nav-animation-examples",
-          title: "animation examples",
-          description: "A collection of animation projects from my Masters in Game Dev program.",
+          title: "Animation Examples",
+          description: "A growing collection of animation projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/masters_animation/";
           },
-        },{id: "dropdown-repos",
-              title: "repos",
+        },{id: "nav-game-projects",
+          title: "Game Projects",
+          description: "A growing collection of my game related projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio/games/";
+          },
+        },{id: "dropdown-github-repos",
+              title: "Github Repos",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/portfolio/repositories/";
               },
-            },{id: "dropdown-resume",
-              title: "resume",
+            },{id: "dropdown-experience",
+              title: "Experience",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/portfolio/resume/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-dev-blogs",
+              title: "Dev Blogs",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/portfolio/blog/";
               },
             },{id: "dropdown-site-analytics",
-              title: "site analytics",
+              title: "Site Analytics",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -197,48 +211,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/web_scraping/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/portfolio/assets/pdf/resume.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%63%6F%6C%74%6F%6E.%64%65%76%30%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/colton-keiser/", "_blank");
-        },
-      },{
-        id: 'social-handshake',
-        title: 'Handshake',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://illinois.joinhandshake.com/profiles/colton_keiser", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/ckeiser2/portfolio", "_blank");
-        },
-      },{
-        id: 'social-itch',
-        title: 'Itch.io',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://keiserdev.itch.io/", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
