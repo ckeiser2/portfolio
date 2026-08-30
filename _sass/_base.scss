@@ -362,10 +362,6 @@ ul.task-list input[type="checkbox"] {
   background-color: var(--global-bg-color);
   opacity: 1.0;
   font-size: 0.9rem;
-  white-space: nowrap;
-  // align-items: center; 
-  // font-weight: bolder;
-
 }
 
 .navbar .dropdown-menu,
@@ -436,24 +432,24 @@ ul.task-list input[type="checkbox"] {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.2rem;
+    font-size: 1.7rem;
 
     a {
       img {
-        width: 1.2rem;
-        height: 1.2rem;
+        width: 1.7rem;
+        height: 1.7rem;
         margin-bottom: 0.5rem;
         // margin: 0.5rem;
       }
 
       svg {
-        width: 1.2rem;
-        height: 1.2rem;
+        width: 1.7rem;
+        height: 1.7rem;
         margin-bottom: 0.5rem;
 
         image {
-          width: 1.2rem;
-          height: 1.2rem;
+          width: 1.7rem;
+          height: 1.7rem;
         }
       }
 
