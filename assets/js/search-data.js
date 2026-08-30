@@ -37,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/masters_animation/";
           },
-        },{id: "dropdown-py-projs",
-              title: "py_projs",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/portfolio/projects/";
-              },
-            },{id: "dropdown-game-projs",
-              title: "game_projs",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/portfolio/games/";
-              },
-            },{id: "dropdown-repos",
+        },{id: "dropdown-repos",
               title: "repos",
               description: "",
               section: "Dropdown",
