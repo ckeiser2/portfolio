@@ -13,7 +13,7 @@ permalink: /games/myconid/
 ##### Role: Solo Developer
 
 ## Playable Version of game below 🕹️
-<iframe frameborder="0" src="https://itch.io/embed-upload/19017473?color=333333" allowfullscreen="" width="800" height="1020"><a href="https://keiserdev.itch.io/a-myconid-story">Play A Myconid Story on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/19017473?color=333333" allowfullscreen="" width="1000" height="1020"><a href="https://keiserdev.itch.io/a-myconid-story">Play A Myconid Story on itch.io</a></iframe>
 
 ---
 

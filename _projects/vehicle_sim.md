@@ -13,9 +13,3 @@ permalink: /games/vehicle-sim/
 
 <iframe frameborder="0" src="https://itch.io/embed-upload/18941237?color=333333" allowfullscreen="" width="1000" height="820"><a href="https://keiserdev.itch.io/vehicle-sim">Play Vehicle Sim on itch.io</a></iframe>
 
----
-
-Also in Itch.io
-<iframe frameborder="0" src="https://itch.io/embed/4932720" width="552" height="167"><a href="https://keiserdev.itch.io/vehicle-sim">Vehicle Sim by keiserdev</a></iframe>
-
----
