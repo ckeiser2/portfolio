@@ -26,17 +26,9 @@ Options > to Control Volume.
 """
 ```
 
-<div class="game-frame">
-  <iframe
-    src="{{ site.baseurl }}/assets/games/rpgmaker/Project1/index.html"
-    width="100%"
-    height="640"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe frameborder="0" src="https://itch.io/embed-upload/19048565?color=333333" allowfullscreen="" width="800" height="620"><a href="https://keiserdev.itch.io/rpgmaker-game">Play RPGMaker Game on itch.io</a></iframe>
 
----
+
 
 ### Refer to the RPGMaker blog below for dev details
 

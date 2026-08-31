@@ -1,7 +1,7 @@
 ---
 layout: about
 body_class: about-page
-title: home
+title: Home
 permalink: /
 subtitle: >
   Colton Keiser, Senior IT Auditor | Backend Developer
