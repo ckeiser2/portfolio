@@ -11,6 +11,12 @@ permalink: /games/myconid/
 
 
 ##### Role: Solo Developer
+```
+Click on highlighted text to continue the story. Choices matter. 
+
+- 18 Seperate endings.
+- Look below for project and technical details.
+```
 
 ## Playable Version of game below 🕹️
 <iframe frameborder="0" src="https://itch.io/embed-upload/19017473?color=333333" allowfullscreen="" width="1000" height="1020"><a href="https://keiserdev.itch.io/a-myconid-story">Play A Myconid Story on itch.io</a></iframe>
