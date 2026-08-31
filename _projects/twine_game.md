@@ -13,13 +13,7 @@ permalink: /games/myconid/
 ##### Role: Solo Developer
 
 ## Playable Version of game below 🕹️
-<iframe
-  src="{{ 'assets/games/dnd.html' | relative_url }}"
-  width="100%"
-  height="750"
-  style="border: none; border-radius: 8px;"
-  loading="eager">
-</iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/19017473?color=333333" allowfullscreen="" width="800" height="1020"><a href="https://keiserdev.itch.io/a-myconid-story">Play A Myconid Story on itch.io</a></iframe>
 
 ---
 
