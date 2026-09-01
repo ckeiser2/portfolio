@@ -181,9 +181,9 @@ ninja.data = [{
           description: "Sorting through text using strategies like Named Entity Recognition and POS Tagging",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/text_analysis_ner/";
-            },},{id: "projects-thief-catcher-game",
-          title: 'Thief Catcher Game',
-          description: "Created in Godot utilizing gdscript.",
+            },},{id: "projects-thief-catcher",
+          title: 'Thief Catcher',
+          description: "Created in Godot utilizing gdscript. Goal of the game is too navigate through levels as a police officer catching thieves and pushing them into the police vehicle. With the interactive UI once all thieves in a level are captured, the player is moved onto the next level. As of right now there are two levels.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/masters_godot/thiefcatcher/";
             },},{id: "projects-topic-modeling",
