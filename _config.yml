@@ -7,18 +7,17 @@ first_name: Colton Keiser
 middle_name:
 last_name: 
 contact_note: >
-  Links to contact information, socials, and a recent game I've made!!
+  Links to socials and contact information
 description: >
-  Actively pursuing M.S. Game Development @ UIUC
 
   
   
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Website actively being maintained.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 💎 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ckeiser2.github.io # the base hostname & protocol for your site
 baseurl: /portfolio # the subpath of your site, e.g. /blog/. Leave blank for root
