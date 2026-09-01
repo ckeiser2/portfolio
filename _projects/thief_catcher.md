@@ -55,13 +55,9 @@ func _physics_process(delta: float) -> void:
 #### Controls
 Use W,A,S,D keys for movement
 
-W - Up
+W	Move Up
+A	Move Left
+S	Move Down
+D	Move Right
 
-A - Left
-
-S - Down
-
-D - Right
-
-
-<iframe frameborder="0" src="https://itch.io/embed-upload/19062971?color=333333" allowfullscreen="" width="1280" height="720"><a href="https://keiserdev.itch.io/thiefgame">Play ThiefCatcher on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/19062971?color=2f2f2f" allowfullscreen="" width="1280" height="740"><a href="https://keiserdev.itch.io/thiefgame">Play ThiefCatcher on itch.io</a></iframe>
