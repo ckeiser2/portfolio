@@ -1,10 +1,12 @@
-- title: General Information
+- title: Overview
   type: map
   contents:
     - name: Full Name
       value: Colton Keiser
     - name: Grad Education
       value: M.S. Game Development @ UIUC 
+    - name: Aspiring Role
+      value: Technical Game Designer
     - name: Undergrad Education
       value: Information Sciences @ UIUC
     - name: Current role
