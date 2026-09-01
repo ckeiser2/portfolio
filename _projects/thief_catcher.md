@@ -22,7 +22,7 @@ Created in Godot utilizing gdscript. The goal of the game is to navigate through
 
 #### Features/mechanics
 
-- **Visual Production Pipeline:** Assets generated using a mixture of cursor generative agents, and ChatGPT generative features. Plan on replacing these with assets I've created out of Krita eventually.
+- **Visual Production Pipeline:** Assets generated using a generative tools. These included a mixture of cursor generative agents, and ChatGPT generative chats. Plan on replacing these with assets I've created out of Krita eventually.
 
 - **UI Features:** Interactive UI that dynamically responds to the number of gameobjects tagged with the tag "Enemy" within a level. Updates text when all remaining thieves are captured. After a short delay progressing the player character to the next level.
 
