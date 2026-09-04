@@ -18,13 +18,21 @@ profiles:
 
 ### Keiser Games
 
+<img src="{{ site.baseurl }}/assets/img/background.png"
+    alt="pfp"
+   style="float: left; width: 200px; margin-left: 1.75rem;">
+
 ---
 
-Keiser games is a mid sized indie entertainment company of 30 employees based out of Chicago, IL. Providing unqiue and engaging entertainment games that appeal to hardcore gamers. Our mission is to create interactive experiences that provide indepth mechanics, engaging gameplay, unique stories and innovative twists across PC and consoles. What makes us different is that we create meaningful experiences in every nook and cranny within our games. Our games provide our audience with uncovering new discoveries years down the road. From secret boss fights, hidden details, fun cameos or references our games always offer more beneath the surface.
+### Mission Statement
+
+Keiser games is a mid sized indie entertainment company of 30 employees based out of Chicago, IL. Providing unqiue and engaging entertainment games that appeal to hardcore gamers. Our mission is to create interactive experiences that provide indepth mechanics, engaging gameplay, unique stories and innovative twists across PC and consoles. What makes us different is that we create meaningful experiences in every nook and cranny within our RTS (Real Time Strategy) and RPG (Role Playing Games) games. Our games provide our audience with uncovering new discoveries years down the road. From secret boss fights, hidden details, fun cameos or references our games always offer more beneath the surface.
 
 ---
 
-##### Our Team
+<br>
+
+### Our Team
 
 Have a look at the leads on our team
 
