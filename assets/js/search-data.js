@@ -133,9 +133,9 @@ ninja.data = [{
           description: "Group project apart of GSD 403 @ UIUC. Over the span of a semester design different aspects of a game.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/games/barb-dun/";
-            },},{id: "projects-blender-placeholder",
-          title: 'Blender Placeholder',
-          description: "Blender Project",
+            },},{id: "projects-racing-cars",
+          title: 'Racing Cars',
+          description: "Assignment 1 from animation course have cars racing with different speed properties",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/masters_animation/blender1/";
             },},{id: "projects-first-ruby-jekyll-portfolio-site",
