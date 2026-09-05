@@ -9,40 +9,47 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "nav-my-studio",
-          title: "My Studio",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/mystudio/";
-          },
-        },{id: "nav-about",
+  },{id: "nav-about",
           title: "About",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/about_me/";
           },
-        },{id: "nav-godot-game-programming-examples",
-          title: "Godot Game Programming Examples",
-          description: "A collection of Godot projects from my Masters in Game Dev program.",
+        },{id: "nav-my-studio",
+          title: "My Studio",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/masters_godot/";
+            window.location.href = "/portfolio/mystudio/";
           },
-        },{id: "nav-unity-game-programming-examples",
-          title: "Unity Game Programming Examples",
-          description: "A collection of programming projects from my Masters in Game Dev program.",
+        },{id: "dropdown-godot-game-programming-examples",
+              title: "Godot Game Programming Examples",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/masters_godot/";
+              },
+            },{id: "dropdown-unity-game-programming-examples",
+              title: "Unity Game Programming Examples",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/masters_programming/";
+              },
+            },{id: "dropdown-animation-examples",
+              title: "Animation Examples",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/masters_animation/";
+              },
+            },{id: "nav-game-showcase",
+          title: "Game Showcase",
+          description: "A growing collection of my game related projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/masters_programming/";
-          },
-        },{id: "nav-animation-examples",
-          title: "Animation Examples",
-          description: "A growing collection of animation projects",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/masters_animation/";
+            window.location.href = "/portfolio/games/";
           },
         },{id: "dropdown-github-repos",
               title: "Github Repos",
