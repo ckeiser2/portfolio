@@ -3,8 +3,8 @@ layout: page
 title: Godot Game Programming Examples
 permalink: /masters_godot/
 description: A collection of Godot projects from my Masters in Game Dev program.
-nav: true
-nav_order: 2
+nav: false
+nav_order: 
 display_categories: [godot]
 horizontal: false
 ---

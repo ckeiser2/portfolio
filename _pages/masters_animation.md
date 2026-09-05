@@ -3,8 +3,8 @@ layout: page
 title: Animation Examples
 permalink: /masters_animation/
 description: A growing collection of animation projects
-nav: true
-nav_order: 4
+nav: false
+nav_order: 
 display_categories: [blender]
 horizontal: false
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Game Projects
+title: Game Showcase
 permalink: /games/
 description: A growing collection of my game related projects.
-nav: false
-nav_order: 
+nav: true
+nav_order: 4
 display_categories: [games 🎮]
 horizontal: false
 ---

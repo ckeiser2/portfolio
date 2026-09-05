@@ -39,6 +39,6 @@ Aspiring Technical Designer
 
 - ##### **[Masters: Animation Examples](https://ckeiser2.github.io/portfolio/masters_animation/)**
 
-- ##### **[Misc Game Projects](https://ckeiser2.github.io/portfolio/games/)**
+- ##### **[Game Showcase](https://ckeiser2.github.io/portfolio/games/)**
 
 - ##### **[Resume Page](https://ckeiser2.github.io/portfolio/resume/)**
