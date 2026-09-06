@@ -3,7 +3,7 @@ layout: page
 title: Space Shooter
 permalink: /masters_godot/spaceshooter/
 description: Created in Godot utilizing gdscript. As of right now the game has you surviving a variety of space objects hitting your ship while in an asteroid belt. Utilizes data within csv.
-img: assets/img/thiefcatcher.png
+img: assets/img/spaceshooter.png
 category: godot
 ---
 
@@ -14,10 +14,14 @@ category: godot
 
 
 ## Embedded Data Docs
-{% include office_viewer.html file="assets/csv/weapons.csv" %}
+
+<img src="{{ site.baseurl }}/assets/img/weapons.png" alt="weapons">
+
 
 ## Embedded Data Docs
-{% include office_viewer.html file="assets/csv/enemies.csv" %}
+
+<img src="{{ site.baseurl }}/assets/img/enemies.png" alt="enemies">
+
 
 ---
 
