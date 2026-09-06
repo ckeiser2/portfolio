@@ -12,6 +12,13 @@ category: godot
 - GDScript: Scripting language used.
 - JetBrains Rider: IDE used for scripting.
 
+
+## Embedded Data Docs
+{% include office_viewer.html file="assets/csv/weapons.csv" %}
+
+## Embedded Data Docs
+{% include office_viewer.html file="assets/csv/enemies.csv" %}
+
 ---
 
 #### Controls
