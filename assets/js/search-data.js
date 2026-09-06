@@ -180,6 +180,11 @@ ninja.data = [{
           description: "Short rpg project, utilizing javascript in the &quot;RPGMaker&quot; engine.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/games/rpg-game/";
+            },},{id: "projects-space-shooter",
+          title: 'Space Shooter',
+          description: "Created in Godot utilizing gdscript. As of right now the game has you surviving a variety of space objects hitting your ship while in an asteroid belt. Utilizes data within csv.",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/masters_godot/spaceshooter/";
             },},{id: "projects-geo-plotting-analysis",
           title: '📊 Geo Plotting / Analysis',
           description: "Using python libraries to use data over geo maps",
