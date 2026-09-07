@@ -24,6 +24,8 @@ I used the game data above to decentralize the storage of game data for weapons 
 #### Description of game
 Created in Godot utilizing gdscript. As of right now the game has you surviving a variety of space objects hitting your ship while in an asteroid belt. Utilizes data within csv. Added multiple foreign objects and particle effects to mimic being in space and surrounded by debris around you while be in an asteroid belt. Additionally, added music as well.
 
+** Disclaimer: it is turned down very low. **
+
 #### Description of scripting
 
 Additional, scripting for the project: for each foreign object to the player within the game I created a script that reads from the csv and assigns speed values to the enemy based on the csv data.
