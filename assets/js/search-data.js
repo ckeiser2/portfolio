@@ -107,7 +107,7 @@ ninja.data = [{
             },},{id: "news-deployed-my-first-ever-online-portfolio-now-replaced-by-this-current-site-old-portfolio-link",
           title: 'Deployed my first ever online portfolio (Now replaced by this current site) Old_Portfolio_Link...',
           description: "",
-          section: "News",},{id: "news-graduated-from-the-university-of-illinois-urbana-champaign-with-my-bachelor-of-science-in-information-sciences",
+          section: "News",},{id: "news-graduated-from-the-university-of-illinois-urbana-champaign-with-my-bachelor-of-science-in-information-sciences-ischool-senior-spotlight-video-i-school-senior-spotlight-page",
           title: 'Graduated from the University of Illinois Urbana-Champaign with my Bachelor of Science in...',
           description: "",
           section: "News",},{id: "news-started-at-protiviti-global-consulting-firm-as-an-it-audit-consultant-in-stl",
