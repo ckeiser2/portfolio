@@ -38,3 +38,9 @@ My career and educational goals would involve working in the game industry in a 
 In my free time I enjoy learning new technical skills, gaming, reading and a mixture of weight and endurance training. I have run a couple 5k and 10ks this year. Additionally, pursuing a Unity junior developer and a Microsoft Power Platforms certification as well.
 
 ---
+
+### Gamer Profile / About Me
+
+Static from mic only happens at beginning of video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0eUqHbMubY?si=Orw5GWMfB632spp-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
