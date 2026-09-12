@@ -44,3 +44,5 @@ In my free time I enjoy learning new technical skills, gaming, reading and a mix
 Static from mic only happens at beginning of video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0eUqHbMubY?si=Orw5GWMfB632spp-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Direct Link to my Gamer Profile: https://apps.quanticfoundry.com/s/mw4p5c/
