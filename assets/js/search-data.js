@@ -125,12 +125,7 @@ ninja.data = [{
           section: "News",},{id: "news-promoted-to-senior-consultant-in-it-audit-protiviti",
           title: 'Promoted to Senior Consultant in IT Audit @ Protiviti',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "placeholder animation project",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio/masters_animation/project1/";
-            },},{id: "projects-asteroid-survivors",
+          section: "News",},{id: "projects-asteroid-survivors",
           title: 'Asteroid Survivors',
           description: "2D Unity demo, playable in browser. Play as a spaceship shooting different types of asteroids and extra-terrestial objects in space.",
           section: "Projects",handler: () => {
@@ -145,6 +140,11 @@ ninja.data = [{
           description: "Assignment 1 from animation course have cars racing with different speed properties",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/masters_animation/blender1/";
+            },},{id: "projects-bouncing-ball-animation",
+          title: 'Bouncing Ball animation',
+          description: "Blender project animating a bouncing ball",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/masters_animation/bouncing_ball/";
             },},{id: "projects-first-ruby-jekyll-portfolio-site",
           title: 'First Ruby | Jekyll Portfolio Site',
           description: "Original portfolio site using Ruby&#39;s Jekyll site generator",
