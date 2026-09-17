@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio/about_me/";
           },
-        },{id: "nav-my-studio",
-          title: "My Studio",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio/mystudio/";
-          },
         },{id: "dropdown-godot-game-programming-examples",
               title: "Godot Game Programming Examples",
               description: "",
@@ -43,6 +36,13 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/portfolio/masters_animation/";
+              },
+            },{id: "dropdown-my-studio-project",
+              title: "My Studio Project",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/mystudio/";
               },
             },{id: "nav-game-showcase",
           title: "Game Showcase",
