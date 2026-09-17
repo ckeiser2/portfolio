@@ -3,8 +3,8 @@ layout: about
 permalink: /mystudio/
 title: My Studio
 description:
-nav: true
-nav_order: 2
+nav: false
+nav_order: 
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -23,6 +23,9 @@ profiles:
    style="float: left; width: 200px; margin-left: 1.75rem;">
 
 ---
+
+**This was a project to design a game studio**
+
 
 #### Mission Statement
 

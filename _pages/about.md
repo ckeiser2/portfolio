@@ -33,12 +33,24 @@ Aspiring Technical Designer
 
 - ##### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
 
+Masters Projects below:
+
+---
+
 - ##### **[Masters: Godot Game Programming Examples](https://ckeiser2.github.io/portfolio/masters_godot/)**
 
 - ##### **[Masters: Unity Game Programming Examples](https://ckeiser2.github.io/portfolio/masters_programming/)**
 
 - ##### **[Masters: Animation Examples](https://ckeiser2.github.io/portfolio/masters_animation/)**
 
+---
+
+A showcase of my games ^
+
 - ##### **[Game Showcase](https://ckeiser2.github.io/portfolio/games/)**
+
+---
+
+Experience
 
 - ##### **[Resume Page](https://ckeiser2.github.io/portfolio/resume/)**

@@ -2,7 +2,7 @@
 layout: page
 title: Masters Game Developement Projects
 nav: true
-nav_order: 3
+nav_order: 2
 dropdown: true
 children:
   - title: Godot Game Programming Examples
@@ -13,6 +13,8 @@ children:
   - title: divider
   - title: Animation Examples
     permalink: /masters_animation/
-#  - title: divider
+  - title: divider
+  - title: My Studio Project
+    permalink: /mystudio/
 
 ---
