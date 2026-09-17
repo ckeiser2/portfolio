@@ -28,12 +28,12 @@ latest_posts:
 ---
 Aspiring Technical Designer
 
-### **Tabs/Projects/Overview**
+### **Features**
 
 
 - ##### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
 
-Masters Projects below:
+### Masters Projects below:
 
 ---
 
@@ -45,12 +45,13 @@ Masters Projects below:
 
 ---
 
-A showcase of my games ^
+### A showcase of my game projects
 
 - ##### **[Game Showcase](https://ckeiser2.github.io/portfolio/games/)**
 
 ---
 
-Experience
+### Experience
 
 - ##### **[Resume Page](https://ckeiser2.github.io/portfolio/resume/)**
+- ##### **[Github Repos](https://ckeiser2.github.io/portfolio/repositories/)**
