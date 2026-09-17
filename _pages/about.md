@@ -47,5 +47,5 @@ Aspiring Technical Designer
 
 ### Experience
 
-- ##### **[Resume Page](https://ckeiser2.github.io/portfolio/resume/)**
+- ##### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**
 - ##### **[Github Repos](https://ckeiser2.github.io/portfolio/repositories/)**
