@@ -28,11 +28,6 @@ latest_posts:
 ---
 Aspiring Technical Designer
 
-### **Features**
-
-
-- ##### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
-
 ### **A showcase of my game projects**
 
 - ##### **[Game Showcase](https://ckeiser2.github.io/portfolio/games/)**
@@ -48,4 +43,5 @@ Aspiring Technical Designer
 ### **Experience**
 
 - ##### **[Experience](https://ckeiser2.github.io/portfolio/resume/)**
+- ##### **[About Me](https://ckeiser2.github.io/portfolio/about_me/)**
 - ##### **[Github Repos](https://ckeiser2.github.io/portfolio/repositories/)**
