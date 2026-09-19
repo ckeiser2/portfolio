@@ -4,7 +4,7 @@ title: Game Showcase
 permalink: /games/
 description: A growing collection of my game related projects.
 nav: true
-nav_order: 4
+nav_order: 2
 display_categories: [games 🎮]
 horizontal: false
 ---
