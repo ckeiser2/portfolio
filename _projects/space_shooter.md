@@ -17,7 +17,7 @@ category: godot
 
 <img src="{{ site.baseurl }}/assets/img/weapons.png" alt="weapons">
 
-<img src="{{ site.baseurl }}/assets/img/enemies.png" alt="enemies">
+<img src="{{ site.baseurl }}/assets/img/enemy_data.png" alt="enemies">
 
 I used the game data above to decentralize the storage of game data for weapons and enemies. Post lecture I included the data of the "Alien" enemy type. Once I had the blaster and further attacking functionality I will be able to better showcase the different hitpoint values and speed of each object.
 
