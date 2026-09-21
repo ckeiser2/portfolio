@@ -28,9 +28,10 @@ Created in Godot utilizing gdscript. As of right now the game has you surviving 
 
 #### Description of scripting
 
-Additional, scripting for the project: for each foreign object to the player within the game I created a script that reads from the csv and assigns speed values to the enemy based on the csv data. There are three different enemy types within the game all with unique stats and designs Cruiser, Scout, and default alien ufo. Within the enemy data folder a new field was added called "texture" so the enemy spawning algorithm can dynamically generate enemies from one scene by assigning the stats and sprite automatically.
+Additional, scripting for the project: for each foreign object to the player within the game I created a script that reads from the csv and assigns speed values to the enemy based on the csv data. There are three different enemy types within the game all with unique stats and designs Cruiser, Scout, tiny alien, juggernaut and default alien ufo. Within the enemy data folder a new field was added called "texture" so the enemy spawning algorithm can dynamically generate enemies from one scene by assigning the stats and sprite automatically.
 
 ```gdscript
+
 extends Area2D
 
 @export var enemy_id: String = "enm_alien"
@@ -136,7 +137,6 @@ func leak() -> void:
 		get_parent().lose_life(1)
 	notify_gone()
 	queue_free()
-
 ```
 
 ---
@@ -149,4 +149,4 @@ Enemies are defeated once their health goes to 0.
 ---
 
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/19329536?color=333333" allowfullscreen="" width="1280" height="740"><a href="https://keiserdev.itch.io/spaceshooter">Play SpaceShooter on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/19330374?color=333333" allowfullscreen="" width="1280" height="740"><a href="https://keiserdev.itch.io/spaceshooter">Play SpaceShooter on itch.io</a></iframe>
