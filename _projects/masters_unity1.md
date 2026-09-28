@@ -29,11 +29,13 @@ Additionally, added a new collectible with customizable movement logic "the star
 
 **How did you go about implementing it?**
 
-Camera movement script: A basic camera script that follows player position.
+Camera movement script: A basic camera script that follows player position with an added offset.
 
 Slime Enemy: Has pathfinding logic where they have two seperate ground checks to ensure they stay on the leveled platform they are place on. Similar in logic to the red shelled koopa from traditional Mario games.
 
 Star Collectible: In order to complete the level you will additionally have to catch the star which currently bounces around the level.
+
+**Note:** Scripts included in repo for reference.
 
 ---
 
