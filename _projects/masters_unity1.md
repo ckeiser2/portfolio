@@ -18,6 +18,7 @@ category: unity
 
 
 **What did you add?**
+
 Camera movement script that follows player movement.
 
 Added a slime enemy that will not fall off platforms.
@@ -25,6 +26,7 @@ Added a slime enemy that will not fall off platforms.
 Additionally, added a new collectible with customizable movement logic "the star". 
 
 **How did you go about implementing it?**
+
 Camera movement script: A basic camera script that follows player position.
 
 Slime Enemy: Has pathfinding logic where they have two seperate ground checks to ensure they stay on the leveled platform they are place on. Similar in logic to the red shelled koopa from traditional Mario games.
@@ -32,6 +34,7 @@ Slime Enemy: Has pathfinding logic where they have two seperate ground checks to
 Star Collectible: In order to complete the level you will additionally have to catch the star which currently bounces around the level.
 
 **Why did you choose this feature for your platformer?**
+
 Camera movement script: This was an intuitive natural progression of the development. As I designed this level I realized in order to scatter the collectibles across the map and add the various features we would need a camera movement script.
 
 Slime Enemy: When I thought about a 2D game that was centered around the collecting of objects I found it intuitive to add hazzards that were not stationary as a way to enage/test the player in a level.
@@ -40,6 +43,7 @@ Star Collectible: This was an effort to enhance the collectible system with vari
 
 
 **How do you think the feature contributes to the game?**
+
 Camera movement script: This allows the game to have more expansive/larger levels as the camera is no longer locked to a stationary perspective.
 
 Slime Enemy: The Slime enemy creates conflict for the player. Additionally, it is an expansion to our hazzard system by adding in essentially a moving hazzard with logic to its navigation of a level.
