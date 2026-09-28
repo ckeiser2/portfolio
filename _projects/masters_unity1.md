@@ -2,7 +2,7 @@
 layout: page
 title: A Hero's Journey
 permalink: /masters_programming/hero_journey/
-description: Placeholder Unity project
+description: ​A 2D Platformer in development.
 category: unity
 ---
 
