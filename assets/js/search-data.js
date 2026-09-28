@@ -160,11 +160,11 @@ ninja.data = [{
           description: "Training a model and creating a visualization based on Confidence score of the model using tweets from dataset from UIUC Data Science course.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/machine_learning/";
-            },},{id: "projects-unity-project-placeholder",
-          title: 'Unity Project Placeholder',
+            },},{id: "projects-a-hero-39-s-journey",
+          title: 'A Hero&amp;#39;s Journey',
           description: "Placeholder Unity project",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/masters_programming/unity1/";
+              window.location.href = "/portfolio/masters_programming/hero_journey/";
             },},{id: "projects-network-clustering-analysis",
           title: '📊 Network Clustering Analysis',
           description: "Python project utilizing networkx",
