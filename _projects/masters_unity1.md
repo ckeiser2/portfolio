@@ -3,6 +3,7 @@ layout: page
 title: A Hero's Journey
 permalink: /masters_programming/hero_journey/
 description: ​A 2D Platformer in development.
+img: assets/img/2D_Game.png
 category: unity
 ---
 
