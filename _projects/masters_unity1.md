@@ -25,6 +25,8 @@ Added a slime enemy that will not fall off platforms.
 
 Additionally, added a new collectible with customizable movement logic "the star". 
 
+---
+
 **How did you go about implementing it?**
 
 Camera movement script: A basic camera script that follows player position.
@@ -33,6 +35,8 @@ Slime Enemy: Has pathfinding logic where they have two seperate ground checks to
 
 Star Collectible: In order to complete the level you will additionally have to catch the star which currently bounces around the level.
 
+---
+
 **Why did you choose this feature for your platformer?**
 
 Camera movement script: This was an intuitive natural progression of the development. As I designed this level I realized in order to scatter the collectibles across the map and add the various features we would need a camera movement script.
@@ -40,6 +44,8 @@ Camera movement script: This was an intuitive natural progression of the develop
 Slime Enemy: When I thought about a 2D game that was centered around the collecting of objects I found it intuitive to add hazzards that were not stationary as a way to enage/test the player in a level.
 
 Star Collectible: This was an effort to enhance the collectible system with variations that had special effects, or gimmicks that interacted with the player and level in engaging ways.
+
+---
 
 
 **How do you think the feature contributes to the game?**
@@ -50,7 +56,7 @@ Slime Enemy: The Slime enemy creates conflict for the player. Additionally, it i
 
 Star Collectible: This adds an engaging twist on collectibles that enhances the experience of hitting the stage win condition by adding a fun twist to the traditional stationary collectible mechanic. The Star creates interesting scenarios where it could bounce into an enemies zone creating challenge for the player.
 
-
+---
 
 ### Github Repo
 [Github Link](https://github.com/ckeiser2/GSD551-Project1/tree/main)
