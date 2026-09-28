@@ -52,4 +52,4 @@ Star Collectible: This adds an engaging twist on collectibles that enhances the 
 [Github Link](https://github.com/ckeiser2/GSD551-Project1/tree/main)
 
 ### Play Game Here
-<iframe frameborder="0" src="https://itch.io/embed-upload/19440905?color=333333" allowfullscreen="" width="640" height="380"><a href="https://keiserdev.itch.io/a-heros-journey">Play A Hero's Journey on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/19441329?color=333333" allowfullscreen="" width="640" height="380"><a href="https://keiserdev.itch.io/a-heros-journey">Play A Hero's Journey on itch.io</a></iframe>
