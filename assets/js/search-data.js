@@ -162,7 +162,7 @@ ninja.data = [{
               window.location.href = "/portfolio/projects/machine_learning/";
             },},{id: "projects-a-hero-39-s-journey",
           title: 'A Hero&amp;#39;s Journey',
-          description: "Placeholder Unity project",
+          description: "​A 2D Platformer in development.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/masters_programming/hero_journey/";
             },},{id: "projects-network-clustering-analysis",
