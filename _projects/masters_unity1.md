@@ -11,15 +11,12 @@ category: unity
 
 ​A 2D Platformer in development. Current win condition is to obtain different collectibles around the map dodging enemies.
 
-<iframe src="{{ site.baseurl }}/assets/img/2D_Game.png"
-        width="100%"
-        height="400px"
-        style="border: 1px solid #ccc; border-radius: 8px;">
-</iframe>
+<img src="{{ site.baseurl }}/assets/img/2D_Game.png" alt="game">
+
 
 ### Questions
 
-```md
+
 **What did you add?**
 Camera movement script that follows player movement.
 
@@ -48,7 +45,7 @@ Camera movement script: This allows the game to have more expansive/larger level
 Slime Enemy: The Slime enemy creates conflict for the player. Additionally, it is an expansion to our hazzard system by adding in essentially a moving hazzard with logic to its navigation of a level.
 
 Star Collectible: This adds an engaging twist on collectibles that enhances the experience of hitting the stage win condition by adding a fun twist to the traditional stationary collectible mechanic. The Star creates interesting scenarios where it could bounce into an enemies zone creating challenge for the player.
-```
+
 
 
 ### Github Repo
