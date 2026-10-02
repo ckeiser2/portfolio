@@ -46,7 +46,8 @@ This was a  guide to the the level of visual clarity I wanted character to have 
 ## Playable Version of game 
 <iframe
   src="{{ site.baseurl }}/assets/games/spacetwine/index.html"
-  width="140%"
+  width="80%"
   height="750"
   style="border: none; border-radius: 8px;"
-  loading="lazy">
+  loading="lazy"
+  allowfullscreen>
