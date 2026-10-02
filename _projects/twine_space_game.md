@@ -1,7 +1,6 @@
 ---
 title: Reisender a twine game
-category: games 🎮
-img: assets/pngs/html_story.png
+category: unity
 layout: page
 description: Choose your own adventure short story, with 3 different endings
 permalink: /masters_godot/reisender/
