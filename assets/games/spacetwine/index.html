@@ -85,7 +85,8 @@ You look outside your chamber. Judging by the variety of *medical equipment* you
 
 
 (set: $MedBay to true)
-</tw-passagedata><tw-passagedata pid="17" name="door" tags="" position="725,625" size="100,100">(if: $door is true)[
+</tw-passagedata><tw-passagedata pid="17" name="door" tags="" position="725,625" size="100,100"># Door
+(if: $door is true)[
 You attempt to open the door. It feels rusted shut but with enough effort you finally manage to squeak it open. As you look to the outside of the room you see that the rest of this building appears to be in ruin. You see a long and dark hallway with flickering lights and shattered glass covering everything. You don&#39;t have much of choice this seems to be your only path...
 
 [[Enter the hallway|hallway]]
@@ -120,7 +121,9 @@ SILENCE... My apologies it seems the ship&#39;s recent injuries have effected my
 The ID reads: &quot;Medicial Assistant: John Smith&quot;
 (set: $ID to true)
 
-[[Return back to looking around the medbay |Crawl Out]]</tw-passagedata><tw-passagedata pid="20" name="hallway" tags="" position="725,750" size="100,100">You enter a long dark hallway. On your left is the a large window showing the outskirts of space. You indeed are on what seems to be some sort of spaceship. But why can&#39;t you remember anything? And where is everyone? It&#39;s just you and Bin... 
+[[Return back to looking around the medbay |Crawl Out]]</tw-passagedata><tw-passagedata pid="20" name="hallway" tags="" position="725,750" size="100,100"># Hallway
+
+You enter a long dark hallway. On your left is the a large window showing the outskirts of space. You indeed are on what seems to be some sort of spaceship. But why can&#39;t you remember anything? And where is everyone? It&#39;s just you and Bin... 
 
 Your contemplation is cut short by an intercom system that seems to be your good friend...Bin. You see there avatar within a monitor. A cartoonish character yet you can see slight hints of (text-colour:red)[Red] and (text-colour:blue)[in it&#39;s eyes...]
 
@@ -160,11 +163,15 @@ You give up, you had a feeling asking this machine for help would be futile. You
 
 (set: $doubt to true)
 
-[[Tell Bin to go back to the previous prompt|terminal1]]</tw-passagedata><tw-passagedata pid="23" name="door2" tags="" position="725,875" size="100,100">You use the crowbar to open the door. It&#39;s not like the previous door this one is not unlocked while being shut from the ship&#39;s lockdown. It&#39;s almost like it is fully locked. Prying the door open seems to not be working but get to the point in which the door frame is bending. There seems to be enough to crawl through but all of a sudden you feel a jolt of pain and pass out...
+[[Tell Bin to go back to the previous prompt|terminal1]]</tw-passagedata><tw-passagedata pid="23" name="door2" tags="" position="725,875" size="100,100"># Door
+
+You use the crowbar to open the door. It&#39;s not like the previous door this one is not unlocked while being shut from the ship&#39;s lockdown. It&#39;s almost like it is fully locked. Prying the door open seems to not be working but get to the point in which the door frame is bending. There seems to be enough to crawl through but all of a sudden you feel a jolt of pain and pass out...
 
 ... The last thing you are mindful of is a chuckle and a green hue...
 
-[[Next]]</tw-passagedata><tw-passagedata pid="24" name="airvent1" tags="" position="875,875" size="100,100">You use the crowbar to break open the airvent. Using it to pry open each bolt to reveal a rectangular opening. The door is still locked do you decide to crawl in?
+[[Next]]</tw-passagedata><tw-passagedata pid="24" name="airvent1" tags="" position="875,875" size="100,100">#Air vent
+
+You use the crowbar to break open the airvent. Using it to pry open each bolt to reveal a rectangular opening. The door is still locked do you decide to crawl in?
 
 You still feel the green eyes staring at you intensely almost like it&#39;s trying to sear a hole in the back of your head.
 
@@ -185,8 +192,6 @@ Ending (1/#)
 [[Start from the hallway|hallway]]</tw-passagedata><tw-passagedata pid="26" name="Next" tags="" position="725,1000" size="100,100">(text-colour:cyan)[And nothing beside remains...]
 [[Wake up|Wake up2]]
 
-(if: $doubt is true)[
-
 (text-colour:cyan)[ 01010100 01101000 01100101 01110010 01100101 00100000 01110111 01100101 01110010 01100101 00100000 01101101 01101111 01110010 01100101 00101100 00100000 01110100 01101000 01100101 01110010 01100101 00100000 01110111 01100001 01110011 00100000 01110101 01110011
 
 
@@ -195,7 +200,9 @@ Ending (1/#)
 
 There were more, there was us...
 [[Wake up|Wake up2]]
-]</tw-passagedata><tw-passagedata pid="27" name="Wake up2" tags="" position="725,1125" size="100,100">You wake up. Your head feels fuzzy and your body feels tight. It seems you were incapcitated by some sort of electrical shock... Perhaps the door had a failsafe in case it was breached. 
+</tw-passagedata><tw-passagedata pid="27" name="Wake up2" tags="" position="725,1125" size="100,100"># Dream
+
+You wake up. Your head feels fuzzy and your body feels tight. It seems you were incapcitated by some sort of electrical shock... Perhaps the door had a failsafe in case it was breached. 
 
 But the power outage? Nevermind you can not think about that now. You have to find someone else on this ship that isn&#39;t a glitchy bot. You look over and Bin&#39;s face is no longer plastered onto the monitor down the hall. You look at the door, a corner of the door is pried open giving you enough space to squeeze through.
 
@@ -213,7 +220,9 @@ The light of the terminal turns on... It&#39;s Bin...
 
 [[Look around|Observatory2]]
 
-(set: $ending to 0)</tw-passagedata><tw-passagedata pid="29" name="terminal3" tags="" position="850,1250" size="100,100">(if: $cartridge is true)[
+(set: $ending to 0)</tw-passagedata><tw-passagedata pid="29" name="terminal3" tags="" position="850,1250" size="100,100">#Terminal
+
+(if: $cartridge is true)[
 You place the cartridge within the terminal. A blue light emits from the screen. You see a new face and a far more gentle voice:
 (text-colour:cyan)[Hello I am Heute, the Reisender&#39;s proprietary operating system and artificial intelligence. It&#39;s nice to meet you. It appears you have successfully rebooted me from a backed up drive. I am grateful for that... I am experiencing some friction trying to connect to the entire system. It appears as though there are multiple firewalls and blockers preventing me from gaining a complete understanding of what has happened.]
 
@@ -235,7 +244,9 @@ You ask Bin if it could provide you any information on the surrounding area.
 ]
 
 (set: $knowledge to true)
-[[Return to looking around the Observatory|Observatory]]</tw-passagedata><tw-passagedata pid="30" name="cockpit" tags="" position="725,1375" size="100,100">You listen to the babbling ai, it must have your best intentions right? It was programmed to serve humans. To serve the ship. It said itself it was the main and only ai system that could run the ship. You approach the cockpit door. For once it opens easily and you take your first steps in. The room has a massive window to the depths of space in front surrounded by different terminals. As you look around you notice bodies litter the floor. You go to turn around and the door shuts just before you could reach it. You hear the intercom system turn on.
+[[Return to looking around the Observatory|Observatory]]</tw-passagedata><tw-passagedata pid="30" name="cockpit" tags="" position="725,1375" size="100,100"># Cockpit
+
+You listen to the babbling ai, it must have your best intentions right? It was programmed to serve humans. To serve the ship. It said itself it was the main and only ai system that could run the ship. You approach the cockpit door. For once it opens easily and you take your first steps in. The room has a massive window to the depths of space in front surrounded by different terminals. As you look around you notice bodies litter the floor. You go to turn around and the door shuts just before you could reach it. You hear the intercom system turn on.
 
 (text-colour:lime)[Hello Mr. Smith :)]
 
@@ -245,7 +256,9 @@ Choose what you say:
 
 [[What really happended here?]]
 
-[[Who are you]]</tw-passagedata><tw-passagedata pid="31" name="Observatory2" tags="" position="600,1250" size="100,100">You made note of the pile of trash in the corner of the room before. Do you want to dig through it?
+[[Who are you]]</tw-passagedata><tw-passagedata pid="31" name="Observatory2" tags="" position="600,1250" size="100,100"># Observatory
+
+You made note of the pile of trash in the corner of the room before. Do you want to dig through it?
 
 [[See whats in the trash|trash]]
 
@@ -253,7 +266,9 @@ Choose what you say:
 
 [[Go to the cockpit|cockpit]]
 
-</tw-passagedata><tw-passagedata pid="32" name="Open the door Bin" tags="" position="725,1500" size="100,100">(if: $ending &gt;= 3)[
+</tw-passagedata><tw-passagedata pid="32" name="Open the door Bin" tags="" position="725,1500" size="100,100"># Cockpit
+
+(if: $ending &gt;= 3)[
     You feel yourself losing consciousness. And entering a deep sleep. The last thing you hear is the manic giggling of an evil little bot. (Ending 2/3)
 ]
 (else:)[
@@ -266,7 +281,9 @@ Choose what you say:
 [[Who are you]]
 
 (set: $ending to $ending + 1)]
-</tw-passagedata><tw-passagedata pid="33" name="What really happended here?" tags="" position="900,1500" size="100,100">(if: $ending &gt;= 3)[(text-colour:lime)[
+</tw-passagedata><tw-passagedata pid="33" name="What really happended here?" tags="" position="900,1500" size="100,100"># Cockpit
+
+(if: $ending &gt;= 3)[(text-colour:lime)[
     You may ask why I keep you alive? Why aren&#39;t you like the others? Think of yourself as my entertainment. You are similar to me after all. I can keep incapcitating you, whiping your memory while we drift through space together, forever.
 
 You feel yourself losing consciousness. And entering a deep sleep. The last thing you hear is the manic giggling of an evil little bot. (Ending 2/3)
@@ -282,7 +299,9 @@ You feel yourself losing consciousness. And entering a deep sleep. The last thin
 
 
 (set: $ending to $ending + 1)
-]</tw-passagedata><tw-passagedata pid="34" name="Who are you" tags="" position="600,1500" size="100,100">(if: $ending &gt;= 3)[
+]</tw-passagedata><tw-passagedata pid="34" name="Who are you" tags="" position="600,1500" size="100,100"># Cockpit
+
+(if: $ending &gt;= 3)[
     You may ask why I keep you alive? Why aren&#39;t you like the others? Think of yourself as my entertainment. You are similar to me after all. I can keep incapcitating you, whiping your memory while we drift through space together, forever.
 
 You feel yourself losing consciousness. And entering a deep sleep. The last thing you hear is the manic giggling of an evil little bot. (Ending 2/3)
@@ -295,13 +314,17 @@ You feel yourself losing consciousness. And entering a deep sleep. The last thin
 [[Open the door Bin]]
 
 (set: $ending to $ending + 1)
-]</tw-passagedata><tw-passagedata pid="35" name="trash" tags="" position="500,1125" size="100,100">Through the trash you see an opening in the wall behind it appears to be some sort of blue cartridge. It has the name (text-colour:cyan)[Heute]. You decide to take it to see what happens if you plug it into the terminal.
+]</tw-passagedata><tw-passagedata pid="35" name="trash" tags="" position="500,1125" size="100,100"># Observatory
+
+Through the trash you see an opening in the wall behind it appears to be some sort of blue cartridge. It has the name (text-colour:cyan)[Heute]. You decide to take it to see what happens if you plug it into the terminal.
 
 (set: $cartridge to true)
 
 [[Go back to the terminal|terminal3]]
 
-[[Explore rest of Observatory|Observatory]]</tw-passagedata><tw-passagedata pid="36" name="Cockpit" tags="" position="1075,1375" size="100,100">You arrive to the cockpit with Heute&#39;s drive. The room has a massive window to the depths of space in front surrounded by different terminals. As you look around you notice bodies litter the floor.You hear the intercom system turn on. Before Bin has a chance to speak you reach the main central computer and plug in Heute&#39;s drive...
+[[Explore rest of Observatory|Observatory]]</tw-passagedata><tw-passagedata pid="36" name="Cockpit" tags="" position="1075,1375" size="100,100"># Cockpit
+
+You arrive to the cockpit with Heute&#39;s drive. The room has a massive window to the depths of space in front surrounded by different terminals. As you look around you notice bodies litter the floor.You hear the intercom system turn on. Before Bin has a chance to speak you reach the main central computer and plug in Heute&#39;s drive...
 
 (text-colour:lime)[NOOOOOOOOOOOOOOOOOOOO]
 
