@@ -3,7 +3,7 @@ layout: page
 title: Godot Platformer
 permalink: /masters_godot/godot_plat/
 description: Created in Godot utilizing gdscript. Platformer.
-# img: assets/img/spaceshooter.png
+img: assets/img/platformer_img.png
 category: godot
 ---
 
@@ -16,11 +16,11 @@ category: godot
 
 ---
 
-Can move around using W,A,S,D
+- Can move around using W,A,S,D
 
-Can jump using space
+- Can jump using space
 
-Can navigate menus using mouse
+- Can navigate menus using mouse
 
 ---
 
