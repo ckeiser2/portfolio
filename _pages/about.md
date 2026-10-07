@@ -26,7 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
-Aspiring Technical Designer
+
+Website is a showcase of projects developed throughout my masters program.
 
 ### **A showcase of my game projects**
 
