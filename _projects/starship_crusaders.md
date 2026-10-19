@@ -3,7 +3,7 @@ layout: page
 title: Starship Crusaders (In Development)
 permalink: /masters_programming/starship_crusaders/
 description: ​A 3D Starfox inspired "on rails shooter" in development as part of masters program. Made in Unity.
-img: assets/img/2D_Game.png
+img: assets/img/starship_crusaders.png
 category: unity
 ---
 
