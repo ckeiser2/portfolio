@@ -195,6 +195,11 @@ ninja.data = [{
           description: "Using python libraries to use data over geo maps",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/spatial_analysis/";
+            },},{id: "projects-starship-crusaders-in-development",
+          title: 'Starship Crusaders (In Development)',
+          description: "​A 3D Starfox inspired &quot;on rails shooter&quot; in development as part of masters program. Made in Unity.",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/masters_programming/starship_crusaders/";
             },},{id: "projects-tei-solutions",
           title: '📊 TEI Solutions',
           description: "Converting HTML data to TEI | Data Parsing",
