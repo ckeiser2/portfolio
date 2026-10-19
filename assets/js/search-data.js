@@ -44,13 +44,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/portfolio/masters_animation/";
               },
-            },{id: "dropdown-my-studio-project",
-              title: "My Studio Project",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/portfolio/mystudio/";
-              },
             },{id: "dropdown-github-repos",
               title: "Github Repos",
               description: "",
