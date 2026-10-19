@@ -14,7 +14,7 @@ children:
   - title: Animation Examples
     permalink: /masters_animation/
   - title: divider
-  - title: My Studio Project
-    permalink: /mystudio/
+#  - title: My Studio Project
+#    permalink: /mystudio/
 
 ---
