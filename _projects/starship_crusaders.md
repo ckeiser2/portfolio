@@ -23,6 +23,7 @@ Description: ​A 3D Starfox inspired "on rails shooter" in development in Unity
 
 ---
 
+
 ### Programming Systems:
 
 - Level Scrolling: Per the nature of an on rails shooter the player is limited to the movement within a "box" of the cameras view. The level is moving towards the player simulating the idea that the player is moving forward but preserving the classic StarFox feel.
@@ -37,7 +38,9 @@ Description: ​A 3D Starfox inspired "on rails shooter" in development in Unity
 
 - Obstacles: Within the game there will be objects that are both destructible (red) and indestructible (orange) the player is expected to both dodge and destroy these objects to navigate through a level. If the player bumps into them they will take damage up to a limit where the player's vehicle destroys.
 
+
 ---
+
 
 ### Controls
 
@@ -55,13 +58,16 @@ Roll: L/R Bumpers
 Barrel Roll: Double Tap Roll Buttons
 Shoot: RT
 
+
 ---
+
 
 ### Playable below
 <iframe frameborder="0" src="https://itch.io/embed-upload/20212639?color=333333" allowfullscreen="" width="640" height="380"><a href="https://keiserdev.itch.io/starshipcruiser">Play Starship Crusader on itch.io</a></iframe>
 
 
 ---
+
 
 ### Github Repo
 [Github Link](https://github.com/ckeiser2/StarshipCrusader)
