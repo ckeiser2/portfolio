@@ -2,18 +2,13 @@
 layout: page
 title: Starship Crusaders (In Development)
 permalink: /masters_programming/starship_crusaders/
-description: ​A 3D Starfox inspired "on rails shooter" in development as part of masters program. Made in Unity.
+description: Description: ​A 3D Starfox inspired "on rails shooter" in development in Unity. Piloting a spaceship performing a variety of features such as shooting, dodging, and barrel rolling!
 img: assets/img/starship_crusaders.png
 category: unity
 ---
 
-### Description
-
-​A 3D Starfox inspired "on rails shooter" in development as part of masters program. Made in Unity.
-
 Title: Starship Crusader
 
-Description: ​A 3D Starfox inspired "on rails shooter" in development in Unity. Piloting a spaceship performing a variety of features such as shooting, dodging, and barrel rolling!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,19 +39,19 @@ Description: ​A 3D Starfox inspired "on rails shooter" in development in Unity
 
 ### Controls
 
-MnK
-Movement: W,A,S,D
-Aim: Mouse
-Roll:Q,E
-Barrel Roll: Double Tap Roll Buttons
-Shoot: M1
+- MnK
+- Movement: W,A,S,D
+- Aim: Mouse
+- Roll:Q,E
+- Barrel Roll: Double Tap Roll Buttons
+- Shoot: M1
 
-Controller
-Movement: Left stick
-Aim: Right Stick
-Roll: L/R Bumpers
-Barrel Roll: Double Tap Roll Buttons
-Shoot: RT
+- Controller
+- Movement: Left stick
+- Aim: Right Stick
+- Roll: L/R Bumpers
+- Barrel Roll: Double Tap Roll Buttons
+- Shoot: RT
 
 
 ---
