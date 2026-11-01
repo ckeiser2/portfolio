@@ -15,9 +15,10 @@ Title: Starship Crusader
 
 Description: ​A 3D Starfox inspired "on rails shooter" in development in Unity. Piloting a spaceship performing a variety of features such as shooting, dodging, and barrel rolling!
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/starship_crusaders.png" title="screenshot" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/starship_crusaders.png" title="image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 ---
