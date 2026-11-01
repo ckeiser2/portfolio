@@ -20,7 +20,9 @@ Description: ​A 3D Starfox inspired "on rails shooter" in development in Unity
         {% include figure.liquid path="assets/img/starship_crusaders.png" title="screenshot" class="img-fluid rounded z-depth-1" %}
 </div>
 
-Programming Systems:
+---
+
+### Programming Systems:
 
 - Level Scrolling: Per the nature of an on rails shooter the player is limited to the movement within a "box" of the cameras view. The level is moving towards the player simulating the idea that the player is moving forward but preserving the classic StarFox feel.
 
