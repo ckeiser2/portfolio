@@ -31,7 +31,18 @@ Title: Starship Crusader
 
 - Targeting Reticle: The reticle moves independently from the player ships movement. The reticle determines where projectiles will travel towards once fired.
 
-- Enemy types: Within the game there are currently 3 seperate enemies scouts(fast moving side to side enemies), heavies(slow, beefier enemies that follow the players position), and turrets that periodically shoot at the player.
+### Enemy Systems
+The enemy systems inherent from the base Enemy.cs script core behaviors while each enemy type listed below expands upon the base behaviors with their unique parameters, behaviors. Enemies have the ability to deal damage, receive damage, move (except for turret) and have their own unqiue behaviors.
+
+### Enemy Types
+
+Within the game there are currently 3 seperate enemies: 
+
+- scouts (fast moving side to side enemies), 
+
+- heavies (slow, beefier enemies that follow the players position)
+
+- turrets are stationary enemies that periodically shoot at the player within their given range.
 
 
 ---
