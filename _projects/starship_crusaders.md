@@ -31,7 +31,7 @@ Title: Starship Crusader
 
 - Targeting Reticle: The reticle moves independently from the player ships movement. The reticle determines where projectiles will travel towards once fired.
 
-- Obstacles: Within the game there will be objects that are both destructible (red) and indestructible (orange) the player is expected to both dodge and destroy these objects to navigate through a level. If the player bumps into them they will take damage up to a limit where the player's vehicle destroys.
+- Enemy types: Within the game there are currently 3 seperate enemies scouts(fast moving side to side enemies), heavies(slow, beefier enemies that follow the players position), and turrets that periodically shoot at the player.
 
 
 ---
@@ -58,7 +58,7 @@ Title: Starship Crusader
 
 
 ### Playable below
-<iframe frameborder="0" src="https://itch.io/embed-upload/20212639?color=333333" allowfullscreen="" width="640" height="380"><a href="https://keiserdev.itch.io/starshipcruiser">Play Starship Crusader on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/20376263?color=333333" allowfullscreen="" width="640" height="380"><a href="https://keiserdev.itch.io/starshipcruiser">Play Starship Crusader on itch.io</a></iframe>
 
 
 ---
