@@ -46,7 +46,7 @@ Within the game there are currently 3 seperate enemies:
 
 ### Inheritance
 
-Each seperate enemy script inherits from the base enemy.cs script base behaviors. The unique enemy scripts can then override these methods with their unique behaviors/data.
+Each seperate enemy script inherits from the base enemy.cs script base behaviors. The unique enemy scripts can then override these methods with their unique behaviors and structured enemy data.
 
 ---
 
