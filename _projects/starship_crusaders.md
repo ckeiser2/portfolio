@@ -44,6 +44,9 @@ Within the game there are currently 3 seperate enemies:
 
 - turrets are stationary enemies that periodically shoot at the player within their given range.
 
+### Inheritance
+
+Each seperate enemy script inherits from the base enemy.cs script base behaviors. The unique enemy scripts can then override these methods with their unique behaviors/data.
 
 ---
 
