@@ -1,11 +1,11 @@
----
-layout: page
-title: Thief Catcher
-permalink: /masters_godot/thiefcatcher/
-description: Created in Godot utilizing gdscript. Goal of the game is too navigate through levels as a police officer catching thieves and pushing them into the police vehicle. With the interactive UI once all thieves in a level are captured, the player is moved onto the next level. As of right now there are two levels. 
-img: assets/img/thiefcatcher.png
-category: godot
----
+# ---
+# layout: page
+# title: Thief Catcher
+# permalink: /masters_godot/thiefcatcher/
+# description: Created in Godot utilizing gdscript. Goal of the game is too navigate through levels as a police officer catching thieves and pushing them into the police # vehicle. With the interactive UI once all thieves in a level are captured, the player is moved onto the next level. As of right now there are two levels. 
+# img: assets/img/thiefcatcher.png
+# category: godot
+# ---
 
 #### Skills/Tools used
 - Godot 4: Game engine used.
