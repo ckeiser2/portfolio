@@ -44,6 +44,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/portfolio/masters_animation/";
               },
+            },{id: "dropdown-user-testing",
+              title: "User Testing",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/user_testing/";
+              },
             },{id: "dropdown-github-repos",
               title: "Github Repos",
               description: "",
@@ -163,6 +170,11 @@ ninja.data = [{
           description: "​A 2D Platformer in development.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/masters_programming/hero_journey/";
+            },},{id: "projects-godot-platformer",
+          title: 'Godot Platformer',
+          description: "Created in Godot utilizing gdscript. Platformer.",
+          section: "Projects",handler: () => {
+              window.location.href = "/portfolio/user_testing/godot_plat/";
             },},{id: "projects-network-clustering-analysis",
           title: '📊 Network Clustering Analysis',
           description: "Python project utilizing networkx",
