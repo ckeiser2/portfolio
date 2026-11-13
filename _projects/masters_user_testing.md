@@ -12,7 +12,7 @@ category: testing
 
 <div class="pdf-section">
 
-  <h2>Playtester 1 (0001)</h2>
+  <h2>Playtester 1 (0001) Also summary of findings</h2>
   <iframe
     src="{{ site.baseurl }}/assets/pdf/playtester1.pdf"
     width="100%"
