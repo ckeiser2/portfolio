@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Godot Platformer
+title: NinjaFrogPlatformer (Godot)
 permalink: /user_testing/godot_plat/
 description: Created in Godot utilizing gdscript. Platformer.
 img: assets/img/platformer_img.png
 category: testing
 ---
 
-- The game you tested: Embed the playable web game and identify its build or version date. Keep this version available so visitors can play the game your participants tested.
 
-- Your completed playtest document: Upload a readable PDF containing your test setup, records for three players, observation logs, follow-up responses, and team results. Provide a clearly labeled link to view or download it.
+PlayTester1(0001): /assets/pdf/playtester1.pdf
+PlayTester2(0002): /assets/pdf/playtester2.pdf
+PlayTester3(0003): /assets/pdf/playtester3.pdf
 
-- A short findings summary: Explain two findings supported by your observations, one proposed improvement, and how you would test that improvement with fresh players.
+### Summary
+
+First, I found that players understood the door interaction more easily compared to the other obstacles. I attribute this to the keyhole provided as a visual clue, while creating steps by shooting walls was less intuitive. Second, I noticed that ammunition can become an issue when players use too many darts on enemies, potentially preventing them from progressing through the level.
+
+Proposed Improvement: I would add more ammunition refill points throughout the level, especially before sections that require shooting to progress.
+
+Retesting: I would test the updated build with fresh players, keeping enemy and obstacle placements consistent. I would observe whether they manage their ammunition better, recognize the wall interactions, and complete the level without running out of darts.
 
 
 ### Playable here
