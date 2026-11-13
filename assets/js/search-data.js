@@ -170,8 +170,8 @@ ninja.data = [{
           description: "​A 2D Platformer in development.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/masters_programming/hero_journey/";
-            },},{id: "projects-godot-platformer",
-          title: 'Godot Platformer',
+            },},{id: "projects-ninjafrogplatformer-godot",
+          title: 'NinjaFrogPlatformer (Godot)',
           description: "Created in Godot utilizing gdscript. Platformer.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/user_testing/godot_plat/";
