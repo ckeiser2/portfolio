@@ -155,11 +155,11 @@ ninja.data = [{
           description: "C# in Godot Engine, Designed the UI and multiple systems.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/games/group-godot-project/";
-            },},{id: "projects-godot-platformer",
-          title: 'Godot Platformer',
+            },},{id: "projects-ninjafrogplatformer",
+          title: 'NinjaFrogPlatformer',
           description: "Created in Godot utilizing gdscript. Platformer.",
           section: "Projects",handler: () => {
-              window.location.href = "/portfolio/masters_godot/godot_plat/";
+              window.location.href = "/portfolio/masters_godot/NFP/";
             },},{id: "projects-machine-learning-via-tweets",
           title: 'Machine Learning via Tweets 🤖 🧠',
           description: "Training a model and creating a visualization based on Confidence score of the model using tweets from dataset from UIUC Data Science course.",
