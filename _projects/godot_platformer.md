@@ -48,13 +48,13 @@ Enemy logic allows for them to stay on platforms and react appropriately to bein
 ### Level Design & Lighting
 
 Level Layout Sketch
-<img src="{{ site.baseurl }}/assets/pngs/level_layout.png" alt="Level Layout">
+<img src="{{ site.baseurl }}/assets/img/level_layout.png" alt="Level Layout">
 
 Top Down Engine view
-<img src="{{ site.baseurl }}/assets/pngs/engine_top_down.png" alt="top down engine view">
+<img src="{{ site.baseurl }}/assets/img/engine_top_down.png" alt="top down engine view">
 
 Annotated Player-Perspective Screenshot
-<img src="{{ site.baseurl }}/assets/pngs/annotated_engine.png" alt="top down engine view">
+<img src="{{ site.baseurl }}/assets/img/annotated_engine.png" alt="top down engine view">
 
 
 <div class="pdf-section">
